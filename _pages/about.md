@@ -21,4 +21,6 @@ My research could be categorized into:
 
 I am funded by the Department of Computer Science, Temerty Faculty of Medicine at UofT, SickKids Hospital, and the Ontario Graduate Scholarship.
 
+I obtained my Honours Bachelor's degree in Computing, *Specialized in Computing and Mathematics* from [Queen's University](https://www.queensu.ca/). My undergraduate honours thesis "Domain Transfer Through Image-to-Image Translation in Prostate Cancer Detection" is supervised by [Prof. Parvin Mousavi](https://www.cs.queensu.ca/people/Parvin/Mousavi) at the [Medical Informatics Laboratory](https://medi.cs.queensu.ca/) from Sept. 2021 to May 2022. I graduated from Yale Secondary School, a beautiful high school in British Columbia in June 2017.
+
 Navigate the the top bar for more details, enjoy!
