@@ -22,4 +22,11 @@ This paper is about the number 2. The number 3 is left for future work.
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation:
+
+@article{song2022truncated,
+  title={Truncated LinUCB for Stochastic Linear Bandits},
+  author={Song, Yanglei and others},
+  journal={arXiv preprint arXiv:2202.11735},
+  year={2022}
+}
