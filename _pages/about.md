@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am currently a Master of Science (MSc.) in Computer Science Candidate at the University of Toronto, I am very fortunate to be advised by Prof. Farzad Khalvati at the [Intelligent Medical Image Computing Systems Lab](https://imics.ca/). I am also a affiliated with the [The Hospital for Sick Children (SickKids) Research Institute]("https://www.sickkids.ca/"), one of the top three paediatric health-care centres in the world. I am working in the Department of Neurosciences & Mental Health.
+Welcome! I am currently a Master of Science (MSc.) in Computer Science Candidate at the University of Toronto, I am very fortunate to be advised by Prof. Farzad Khalvati at the [Intelligent Medical Image Computing Systems Lab](https://imics.ca/). I am also a affiliated with the [The Hospital for Sick Children (SickKids) Research Institute]("https://www.sickkids.ca/en/research/about-research-institute/"), one of the top three paediatric health-care centres in the world. I am working in the Department of Neurosciences & Mental Health.
 
 My current research interest lies at the intersection between *Deep Learning* and *Medical Imaging*, I am working on the Paediatric Low Grade Gliomas diagnosis. I am also interested in NLP for healthcare using LLMs.
 
