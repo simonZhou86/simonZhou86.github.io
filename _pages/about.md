@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Welcome! I am currently a Master of Science (MSc.) in Computer Science Candidate at the University of Toronto, I am very fortunate to be advised by Prof. Farzad Khalvati at the [Intelligent Medical Image Computing Systems Lab](https://imics.ca/). I am also a affiliated with the [The Hospital for Sick Children (SickKids) Research Institute]("https://www.sickkids.ca/"), one of the top three paediatric health-care centres in the world. I am working in the Department of Neurosciences & Mental Health.
+
+My current research interest lies at the intersection between *Deep Learning* and *Medical Imaging*, I am working on the Paediatric Low Grade Gliomas diagnosis. I am also interested in NLP for healthcare using LLMs.
+
+Previously, I have worked on the Sequential Decision (theoretical RL) related research. My research could be categorized into:
+  - Computational Methodology in Medical Data (image, text, time series data, etc.)
+  - Deep Learning applications for Medical Image Analysis
+  - Radiomics Data Analysis
+  - Contextual Multi-armed Bandit Problem
 
 A data-driven personal website
 ======
