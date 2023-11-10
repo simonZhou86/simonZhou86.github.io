@@ -1,12 +1,22 @@
 ---
-title: "Paper Title Number 2"
+title: "Truncated LinUCB for Stochastic Linear Bandits"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: https://arxiv.org/abs/2202.11735
+excerpt: 'We consider contextual bandits with a finite number of arms, where the contexts are independent and identically distributed
+                d-dimensional random vectors, and the expected rewards are linear in both the arm parameters and contexts. We propose a truncated version of LinUCB and termed "Tr-LinUCB", which follows LinUCB
+                up to a truncation time S and performs pure exploitation afterwards. The Tr-LinUCB algorithm is shown to achieve O(dlog(T)) regret if S=Cdlog(T)
+                for a sufficiently large constant C, and a matching lower bound is established, which shows the rate optimality of Tr-LinUCB in both d and T under a low dimensional regime.'
+date: 2022-04-25
+venue: 'Under revision, JMLR'
+paperurl: 'https://arxiv.org/pdf/2202.11735.pdf'
+citation: '
+@article{song2022truncated,
+  title={Truncated LinUCB for Stochastic Linear Bandits},
+  author={Song, Yanglei and others},
+  journal={arXiv preprint arXiv:2202.11735},
+  year={2022}
+}
+'
 ---
 This paper is about the number 2. The number 3 is left for future work.
 
