@@ -8,7 +8,7 @@ excerpt: 'We consider contextual bandits with a finite number of arms, where the
                 for a sufficiently large constant C, and a matching lower bound is established, which shows the rate optimality of Tr-LinUCB in both d and T under a low dimensional regime.'
 date: 2022-04-25
 venue: 'Under revision, JMLR'
-paperurl: 'https://arxiv.org/pdf/2202.11735.pdf'
+paperurl: 'https://arxiv.org/pdf/2202.11735'
 ---
 Paper currently under revision.
 
