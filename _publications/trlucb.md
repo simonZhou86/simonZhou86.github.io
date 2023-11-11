@@ -9,7 +9,6 @@ excerpt: 'We consider contextual bandits with a finite number of arms, where the
 date: 2022-04-25
 venue: 'Under revision, JMLR'
 paperurl: 'https://arxiv.org/pdf/2202.11735.pdf'
-citation: "Song, Y., Zhou M. (2022). Truncated LinUCB for Stochastic Linear Bandits. arXiv preprint arXiv:2202.11735."
 ---
 Paper currently under revision.
 
