@@ -12,7 +12,7 @@ We further extend our method by incoperating the uncertainty estimation to the m
 
 [Download paper here](http://simonZhou86.github.io/files/dt_pca.pdf)
 
-Recommended citation:
+If you find our paper useful, please cite our paper:
 
 ```{bibtex}
 @conference{Zhou2022,

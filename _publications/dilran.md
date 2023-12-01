@@ -15,6 +15,8 @@ ArXiv vision:
 ISBI version:
 [Download paper here](http://simonZhou86.github.io/files/ISBI_Paper114.pdf)
 
+If you find our paper useful, please cite our paper:
+
 ```{bibtex}
 @article{zhou2022attention,
   title={An Attention-based Multi-Scale Feature Learning Network for Multimodal Medical Image Fusion},

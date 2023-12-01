@@ -14,6 +14,9 @@ Paper currently under revision.
 
 [Download paper here](http://simonZhou86.github.io/files/TrLUCB.pdf)
 
+
+If you find our paper useful, please cite our paper:
+
 ```{bibtex}
 @article{song2022truncated,
   title={Truncated LinUCB for Stochastic Linear Bandits},
