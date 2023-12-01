@@ -4,11 +4,11 @@ collection: publications
 permalink: /publication/dt_pca
 excerpt: 'In this paper, we have presented a novel approach for unpaired image-to-image translation of prostate mp-MRI for classifying clinically significant PCa, to be applied in data-constrained settings. First, we introduce domain transfer, a novel pipeline to translate unpaired 3.0T multi-parametric prostate MRIs to 1.5T, to increase the number of training data. Second, we estimate the uncertainty of our models through an evidential deep learning approach; and leverage the dataset filtering technique during the training process. Furthermore, we introduce a simple, yet efficient Evidential Focal Loss that incorporates the focal loss with evidential uncertainty to train our model. Experiments have shown the superior performance of the proposed approach.'
 date: 2022-03-01
-venue: 'Student Abstract, 20th Annual Symposium of the Imaging Network of Ontario (ImNO)'
+venue: 'Abstract, 20th Annual Symposium of the Imaging Network of Ontario (ImNO)'
 paperurl: 'https://www.imno.ca/sites/default/files/ImNO2022Proceedings.pdf'
 ---
 
-The extended journal version is available at [here](https://arxiv.org/abs/2307.00479)
+We further extend our method by incoperating the uncertainty estimation to the model to improve the classification performance. To this end, we further propose the *Evidential Focal Loss* as a loss function for binary prostate cancer classification. The extended journal version is available at [here](https://arxiv.org/abs/2307.00479)
 
 [Download paper here](http://simonZhou86.github.io/files/dt_pca.pdf)
 
