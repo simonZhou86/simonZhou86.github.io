@@ -16,7 +16,7 @@ IoU score. The code is available at [this url](https://github.com/simonZhou86/cs
 If you want to use the code, or find our project useful, you can set as follows:
 
 ```{bibtex}
-@misc{wei2023chatsim,
+@misc{zhou2023mtseg,
     author = {Zhou, Meng and Liu, Xudong and Wu, Reyna},
     title = {MTSegFormer: A Multitask Learning Approach for Brain Tumor Segmentation using Transformer},
     year = {2023},
