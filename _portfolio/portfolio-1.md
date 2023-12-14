@@ -4,4 +4,11 @@ excerpt: "We present MTSegFormer, a learning framework for 2D brain tumor segmen
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Accurate brain tumor segmentation in MRI images is crucial for effective diagnosis and treatment planning. However, traditional U-Net architecture faces challenges in
+capturing long-range dependencies and preserving features of small-sized tumors, which limits its performance. In this work, we present MTSegFormer, a novel learning
+framework for 2D brain tumor segmentation using latent transformer through the Multi-task learning paradigm. We use a UNet-like structure with a latent space
+transformer, and a self-supervised image decoder to build up the overall framework. We also introduce the Breath-wise Cross Attention module that aims to refine the
+skip connection features. Experiment shows our proposed framework achieves superior performance compared to other baselines by up to 11% in Dice and 10% in
+IoU score. The code is available at [this url](https://github.com/simonZhou86/csc2516_proj)
+
+[Download project report here](http://simonZhou86.github.io/files/multisegformer.pdf)
