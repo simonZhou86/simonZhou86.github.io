@@ -12,3 +12,14 @@ skip connection features. Experiment shows our proposed framework achieves super
 IoU score. The code is available at [this url](https://github.com/simonZhou86/csc2516_proj)
 
 [Download project report here](http://simonZhou86.github.io/files/multisegformer.pdf)
+
+If you want to use the code, or find our project useful, you can set as follows:
+
+```{bibtex}
+@misc{wei2023chatsim,
+    author = {Zhou, Meng and Liu, Xudong and Wu, Reyna},
+    title = {MTSegFormer: A Multitask Learning Approach for Brain Tumor Segmentation using Transformer},
+    year = {2023},
+    howpublished = {\url{https://simonzhou86.github.io/portfolio/mtsegformer}},
+}
+```
