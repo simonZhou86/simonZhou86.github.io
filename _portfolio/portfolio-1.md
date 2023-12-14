@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Multitask Learning for Brain Tumor Segmentation using Transformer"
+excerpt: "We present MTSegFormer, a learning framework for 2D brain tumor segmentation using latent transformer through the Multi-task learning paradigm.<br/><img src='/images/mtseg_cover.png'>"
 collection: portfolio
 ---
 
