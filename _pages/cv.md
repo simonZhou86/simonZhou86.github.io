@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "More about Myself"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* BCMPH. in Computing and Mathematics Specialization, [Queen's University](https://www.queensu.ca/), 2022
 * M.Sc. in Computer Science, [University of Toronto](https://www.utoronto.ca/), 2024
+* BCMPH. in Computing and Mathematics Specialization, [Queen's University](https://www.queensu.ca/), 2022
 
 Work experience
 ======
