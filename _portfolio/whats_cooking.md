@@ -5,9 +5,11 @@ collection: portfolio
 ---
 
 **Project Intro:**
+
 In this project, we leveraged various traditional machine learning and deep learning methods to predict the category of a dish’s cuisine given a list of ingredients that used in the dish.
 
 **Data description:**
+
 Training dataset is in JSON format and has three attributes: recipe ID (int), the type of cuisine(object/string), and the list of ingredients (object list). Test dataset only have two attributes: recipe ID and the list of ingredients. Both attributes have the same format as they appear in Training dataset.
 
 **Data Preparation & Feature Engineering:**
@@ -26,6 +28,7 @@ Training dataset is in JSON format and has three attributes: recipe ID (int), th
 - Hyper-parameter tuning is done via GridSearchCV in Python. Random Forest and boosting & voting classifier is not reported due to low accuracy on validation dataset.
 
 The code for this project can be found at [this url](https://github.com/simonZhou86/Kaggle-Competition)
+
 Original Kaggle Competition [link](https://www.kaggle.com/c/whats-cooking-kernels-only/overview)
 
 
