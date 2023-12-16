@@ -1,6 +1,6 @@
 ---
 title: "Predicting cuisine category using recipe ingredients"
-excerpt: "Use recipe ingredients to categorize the cuisine through machine learning and deep learning models.<br/><img src='/images/mtseg_cover.png'>"
+excerpt: "Use recipe ingredients to categorize the cuisine through machine learning and deep learning models.<br/><img src='/images/whats_cooking.png'>"
 collection: portfolio
 ---
 
