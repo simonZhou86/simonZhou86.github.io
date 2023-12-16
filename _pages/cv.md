@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BCMPH. in Computing and Mathematics Specialization, [Queen's University](https://www.queensu.ca/), 2022
+* M.Sc. in Computer Science, [University of Toronto](https://www.utoronto.ca/), 2024
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Sept. 2022 - Present: Machine Learning Researcher
+  * [SickKids Research Institute, The Hospital for Sick Children](https://www.sickkids.ca/en/research/about-research-institute/)
+  * Supervisor: Professor Farzad Khalvati
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Sept. 2021 - May 2022: Undegraduate Researcher
+  * [Medical Informatics Lab, Queen's University](https://medi.cs.queensu.ca/)
+  * Supervisor: Professor Parvin Mousavi
+
+* Apr. 2021 - July 2021: Algorithm Engineer Intern
+  * [Illuminera Ghawar](http://www.ghawar.cn/)
+  * Mentor: Sifan Huai, Senior Algorithm Engineer
+
+* May 2020 - Feb. 2022: Undegraduate Research Assistant
+  * [Department of Mathematics and Statistics, Queen's University](https://www.queensu.ca/mathstat/)
+  * Supervisor: Professor Yanglei Song
+
+* May 2019 - July 2019: Summer Intern
+  * [Deloitte Consulting](https://www2.deloitte.com/cn/en/pages/technology/solutions/technology-services.html)
+
 
 Publications
 ======
@@ -47,13 +47,21 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
+Honors and Awards
+======
+* Ontario Graduate Scholarship Recipient, Department of Computer Science, University of Toronto, 2023
+* DCS Graduate Program Fellowship, Department of Computer Science, University of Toronto, 2023
+* Mergelas Family Graduate Award, Temerty Faculty of Medicine, University of Toronto, 2022
+* Dean's Honor List, Queen's University, 2019-2022
+* John Ursell Tutor Award, Queen's University, 2020
+
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service
 ======
-* Currently signed in to 43 different slack teams
+* Reviewer, [DGM4MICCAI@MICCAI Conference](https://dgm4miccai.github.io/#overview), 2023
