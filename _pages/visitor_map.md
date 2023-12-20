@@ -1,10 +1,10 @@
 ---
-permalink: /markdown/
+permalink: /visitor_map/
 title: "Visitor sitemap"
 author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
+# redirect_from: 
+#   - /md/
+#   - /markdown.html
 ---
 
 For sitemap, please refer to:
