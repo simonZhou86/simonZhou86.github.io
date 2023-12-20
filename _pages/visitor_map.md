@@ -1,5 +1,4 @@
 ---
-layout: archive
 permalink: /visitor_map/
 title: "Visitor sitemap"
 author_profile: true
