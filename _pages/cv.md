@@ -65,3 +65,5 @@ Teaching
 Service
 ======
 * Reviewer, [DGM4MICCAI@MICCAI Conference](https://dgm4miccai.github.io/#overview), 2023
+
+You can also find my full-length resume at [here](http://simonZhou86.github.io/files/Meng_Zhou_Resume_onepage.pdf), and one-page resume at [here](http://simonZhou86.github.io/files/Meng_Zhou_Resume_Research.pdf)
