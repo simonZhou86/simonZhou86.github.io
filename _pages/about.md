@@ -24,3 +24,10 @@ I am funded by the Department of Computer Science, Temerty Faculty of Medicine a
 I obtained my Honours Bachelor's degree in Computing, *Specialized in Computing and Mathematics* from [Queen's University](https://www.queensu.ca/). During my undergrad years, I have the privilege to work under the supervision of [Prof. Parvin Mousavi](https://www.cs.queensu.ca/people/Parvin/Mousavi) at the [Medical Informatics Laboratory](https://medi.cs.queensu.ca/) on my undergraduate honours thesis, "Domain Transfer Through Image-to-Image Translation in Prostate Cancer Detection"; and [Prof. Yanglei Song](https://sites.google.com/view/yangleisong) on the Contextual Multi-Armed Bandit problem. You can see more details in the Publicaton section on the top. I graduated from Yale Secondary School, a beautiful secondary school in British Columbia in June 2017.
 
 Navigate the top bar for more details, enjoy!
+
+
+SiteMap:
+
+![Visit tracker](https://clustrmaps.com/map_v2.png?d=J-NsD83hGHTyToBRLFxnexK8pRjz_RJvImjuuaTU6JE&cl=ffffff)
+
+[Link](https://clustrmaps.com/site/1bo9o)
