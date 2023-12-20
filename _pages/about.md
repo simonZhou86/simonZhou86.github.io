@@ -26,7 +26,6 @@ I obtained my Honours Bachelor's degree in Computing, *Specialized in Computing 
 Navigate the top bar for more details, enjoy!
 
 
-SiteMap:
 
 ![Visit tracker](https://clustrmaps.com/map_v2.png?d=J-NsD83hGHTyToBRLFxnexK8pRjz_RJvImjuuaTU6JE&cl=ffffff)
 
