@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "About me"
+title: "Meng Zhou"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+# Meng Zhou
 
 Welcome! I am currently a Master of Science (MSc.) in Computer Science Candidate at the University of Toronto, I am very fortunate to be advised by [Prof. Farzad Khalvati](https://medical-imaging.utoronto.ca/faculty/farzad-khalvati) at the [Intelligent Medical Informatics Computing Systems Lab](https://imics.ca/). I am also a affiliated with [The Hospital for Sick Children (SickKids) Research Institute](https://www.sickkids.ca/en/research/about-research-institute/), one of the top three paediatric health-care centres in the world. I am working in the [Department of Neurosciences & Mental Health](https://www.sickkids.ca/en/research/research-programs/neurosciences-mental-health/).
 
