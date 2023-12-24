@@ -29,4 +29,4 @@ Who visited my website before? check out this:
 
 ![Visit tracker](https://clustrmaps.com/map_v2.png?d=J-NsD83hGHTyToBRLFxnexK8pRjz_RJvImjuuaTU6JE&cl=ffffff)
 
-[Link](https://clustrmaps.com/site/1bo9o)
+[Visitor Map Link](https://clustrmaps.com/site/1bo9o)
