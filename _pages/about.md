@@ -11,9 +11,9 @@ redirect_from:
 
 Welcome! 
 
-I obtained my Master of Science (MSc.) in Computer Science degree at the University of Toronto in Jan. 2024, where I am very fortunate to be advised by [Prof. Farzad Khalvati](https://medical-imaging.utoronto.ca/faculty/farzad-khalvati) at the [Intelligent Medical Informatics Computing Systems Lab](https://imics.ca/). I wad affiliated with [The Hospital for Sick Children (SickKids) Research Institute](https://www.sickkids.ca/en/research/about-research-institute/), one of the top three paediatric health-care centres in the world. I have worked in the [Department of Neurosciences & Mental Health](https://www.sickkids.ca/en/research/research-programs/neurosciences-mental-health/).
+I obtained my Master of Science (MSc.) in Computer Science degree at the University of Toronto in Jan. 2024, where I am very fortunate to be advised by [Prof. Farzad Khalvati](https://medical-imaging.utoronto.ca/faculty/farzad-khalvati) at the [Intelligent Medical Informatics Computing Systems Lab](https://imics.ca/). I was affiliated with [The Hospital for Sick Children (SickKids) Research Institute](https://www.sickkids.ca/en/research/about-research-institute/), one of the top three pediatric health-care centres in the world, where I worked in the [Department of Neurosciences & Mental Health](https://www.sickkids.ca/en/research/research-programs/neurosciences-mental-health/).
 
-My research interest lies at the intersection between **Deep Learning** and **Medical Imaging**, particularly in 3D Medical Image Generation to improve the diagnostic performance of rare diseases, such as (Pediatric) brain tumors. I am also interested in NLP for healthcare using LLMs. Previously, I have worked on the Sequential Decision research on Multi-Armed Bandits.
+My research interest lies at the intersection between **Deep Learning** and **Medical Imaging**, particularly in developing 3D Medical Image Generation model to improve the diagnostic (segmentation and classification) performance of rare diseases, such as (Pediatric) brain tumors. I am also interested in NLP for healthcare using LLMs. Previously, I have worked on the Sequential Decision research on Multi-Armed Bandits.
 
 My research could be categorized into:
   - Computational Methodology in Medical Data (image, text, time series data, etc.)
