@@ -17,13 +17,14 @@ I obtained my Master of Science (MSc.) degree in Computer Science at the Univers
 
 
 
+## Research
 My research interest lies at the intersection between **Deep Learning** and **Medical Imaging**, particularly in developing 3D Medical Image Generation model to improve the diagnostic (segmentation and classification) performance of rare diseases, such as (Pediatric) brain tumors. I am also interested in NLP for healthcare using LLMs. Previously, I have worked on the Sequential Decision research on Multi-Armed Bandits.
 
 My research could be categorized into:
   - Computational Methodology in Medical Data (image, text, time series data, etc.)
   - Deep Learning applications for Medical Image Analysis
-  - Medical Image Generation (Image Transformer, Diffusion, LLM/LVMs, etc.)
-  - NLP for clinical data
+  - Medical Image Generation (Image Transformer, Diffusion, Vision-Language, LVMs, etc.)
+  - NLP for clinical data (LLMs)
   - Contextual Multi-armed Bandit Problems
 
 I am funded by the Department of Computer Science, Temerty Faculty of Medicine at the University of Toronto, Mitacs Research Grant, SickKids Hospital, and the Ontario Graduate Scholarship.
