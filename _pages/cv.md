@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* Sept. 2022 - Present: Machine Learning Researcher
+* Sept. 2022 - Jan. 2024: Machine Learning Researcher
   * [SickKids Research Institute, The Hospital for Sick Children](https://www.sickkids.ca/en/research/about-research-institute/)
   * Supervisor: Professor Farzad Khalvati
 
