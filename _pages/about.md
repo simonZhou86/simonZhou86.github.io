@@ -13,8 +13,17 @@ Welcome!
 
 I obtained my Master of Science (MSc.) degree in Computer Science at the University of Toronto in March 2024, where I am very fortunate to be advised by [Prof. Farzad Khalvati](https://medical-imaging.utoronto.ca/faculty/farzad-khalvati) at the [Intelligent Medical Informatics Computing Systems Lab](https://imics.ca/). I was affiliated with [The Hospital for Sick Children (SickKids) Research Institute](https://www.sickkids.ca/en/research/about-research-institute/), one of the top three pediatric health-care centres in the world, where I worked in the [Department of Neurosciences & Mental Health](https://www.sickkids.ca/en/research/research-programs/neurosciences-mental-health/).
 
-## News
 
+## News
+- (Feb. 2024), One paper submitted to MIDL 2024
+- (Jan. 2024), I compeleted my Master of Science in CS degree from the University of Toronto
+- (Jan. 2024), I started to be a TA for CSC413, Neural Networks and Deep Learning at the University of Toronto
+- (Nov. 2023), One paper submitted to Computers in Biology and Medicine
+- (Jul. 2023), I received the Ontario Graduate Scholarship (OGS) at the University of Toronto DCS
+- (Jun. 2023), I served as a Reviewer for DGM4MICCAI Workshop @ MICCAI Conference 2023
+- (Oct. 2022), I received Mergelas Family Graduate Student Award from the Temerty Faculty of Medicine, University of Toronto
+- (Apr. 2022), One paper submitted to JMLR
+- (Mar. 2022), One abstract accepted to [Imaging Network Ontario](https://www.imno.ca/)
 
 
 ## Research
