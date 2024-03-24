@@ -15,9 +15,9 @@ I obtained my Master of Science (MSc.) degree in Computer Science at the Univers
 
 
 ## News
-- (Mar. 2024), I offically graduated from University of Toronto DCS
+- (Mar. 2024), I offically graduated at the University of Toronto
 - (Feb. 2024), One paper submitted to MIDL 2024
-- (Jan. 2024), I compeleted my Master of Science in CS degree from the University of Toronto
+- (Jan. 2024), I compeleted my Master of Science in CS degree at the University of Toronto
 - (Jan. 2024), I started to be a TA for CSC413, Neural Networks and Deep Learning at the University of Toronto
 - (Nov. 2023), One paper submitted to Computers in Biology and Medicine
 - (Jul. 2023), I received the Ontario Graduate Scholarship (OGS) at the University of Toronto DCS
