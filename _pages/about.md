@@ -15,11 +15,10 @@ I obtained my Master of Science (MSc.) degree in Computer Science at the Univers
 
 
 ## News
-- (Mar. 2024), I offically graduated at the University of Toronto
 - (Feb. 2024), One paper submitted to MIDL 2024
-- (Jan. 2024), I compeleted my Master of Science in CS degree at the University of Toronto
-- (Jan. 2024), I started to be a TA for CSC413, Neural Networks and Deep Learning at the University of Toronto
-- (Nov. 2023), One paper submitted to Computers in Biology and Medicine
+- (Jan. 2024), I compeleted my Master of Science in Computer Science degree at the University of Toronto
+- (Jan. 2024), I started to be a TA for CSC413H1, Neural Networks and Deep Learning at the University of Toronto
+- (Oct. 2023), One paper submitted to Computers in Biology and Medicine
 - (Jul. 2023), I received the Ontario Graduate Scholarship (OGS) at the University of Toronto DCS
 - (Jun. 2023), I served as a Reviewer for DGM4MICCAI Workshop @ MICCAI Conference 2023
 - (Oct. 2022), I received Mergelas Family Graduate Student Award from the Temerty Faculty of Medicine, University of Toronto
