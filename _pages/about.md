@@ -15,7 +15,7 @@ I obtained my Master of Science (MSc.) degree in Computer Science at the Univers
 
 
 ## 🔥 News
-- (Apr. 2024), Our paper on conditional generation of brain tumor ROIs has been accepted to MIDL 2024, See you in Paris! [OpenReview link](https://openreview.net/forum?id=LLoSHPorlM)
+- (Apr. 2024), Our paper on conditional generation of brain tumor ROIs has been accepted to MIDL 2024, see you in Paris! [OpenReview link](https://openreview.net/forum?id=LLoSHPorlM)
 - (Feb. 2024), One paper submitted to MIDL 2024
 - (Jan. 2024), I compeleted my Master of Science in Computer Science degree at the University of Toronto
 - (Jan. 2024), I started to be a TA for CSC413H1, Neural Networks and Deep Learning at the University of Toronto
