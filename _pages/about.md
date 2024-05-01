@@ -9,7 +9,9 @@ redirect_from:
 ---
 ![My name in Chinese](http://simonZhou86.github.io/images/name_chinese.png)
 
-Welcome! 
+Welcome!
+
+As of May 1st, I am a full-time Machine Learning Engineer at [SpassMed](https://www.spass.ai/) working on multimodal models for medical data, including physiological time series, medical report and imaging. 
 
 I obtained my Master of Science (MSc.) degree in Computer Science at the University of Toronto in March 2024, where I am very fortunate to be advised by [Prof. Farzad Khalvati](https://medical-imaging.utoronto.ca/faculty/farzad-khalvati) at the [Intelligent Medical Informatics Computing Systems Lab](https://imics.ca/). I was affiliated with [The Hospital for Sick Children (SickKids) Research Institute](https://www.sickkids.ca/en/research/about-research-institute/), one of the top three pediatric health-care centres in the world, where I worked in the [Department of Neurosciences & Mental Health](https://www.sickkids.ca/en/research/research-programs/neurosciences-mental-health/).
 
