@@ -11,9 +11,9 @@ redirect_from:
 
 Welcome!
 
-As of May 1st, I am a full-time Machine Learning Engineer at [SpassMed](https://www.spass.ai/) working on multimodal models for medical data, including physiological time series, medical report and imaging. 
+I am a full-time Machine Learning Engineer at [SpassMed](https://www.spass.ai/) working on multimodal models for medical data, including physiological time series, medical reports and imaging. If you are interested in AI applications in Medicine, please reach out and we can have a chat!
 
-I obtained my Master of Science (MSc.) degree in Computer Science at the University of Toronto in March 2024, where I am very fortunate to be advised by [Prof. Farzad Khalvati](https://medical-imaging.utoronto.ca/faculty/farzad-khalvati) at the [Intelligent Medical Informatics Computing Systems Lab](https://imics.ca/). I was affiliated with [The Hospital for Sick Children (SickKids) Research Institute](https://www.sickkids.ca/en/research/about-research-institute/), one of the top three pediatric health-care centres in the world, where I worked in the [Department of Neurosciences & Mental Health](https://www.sickkids.ca/en/research/research-programs/neurosciences-mental-health/).
+Previously, I obtained my Master of Science (MSc.) degree in Computer Science at the University of Toronto in March 2024, where I am very fortunate to be advised by [Prof. Farzad Khalvati](https://medical-imaging.utoronto.ca/faculty/farzad-khalvati) at the [Intelligent Medical Informatics Computing Systems Lab](https://imics.ca/). I was affiliated with [The Hospital for Sick Children (SickKids) Research Institute](https://www.sickkids.ca/en/research/about-research-institute/), one of the top three pediatric health-care centres in the world, where I worked in the [Department of Neurosciences & Mental Health](https://www.sickkids.ca/en/research/research-programs/neurosciences-mental-health/).
 
 
 ## 🔥 News
