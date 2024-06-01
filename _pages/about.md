@@ -11,7 +11,7 @@ redirect_from:
 
 Welcome!
 
-I am a full-time Machine Learning Engineer at [SpassMed](https://www.spass.ai/) working on Medical LLMs and Imaging. If you are interested in AI applications in Medicine/Healthcare, reach out to me and we can have a chat!
+I am a full-time Machine Learning Engineer at [SpassMed Inc.](https://www.spass.ai/) working on Medical LLMs and Imaging. If you are interested in AI applications in Medicine/Healthcare, reach out to me and we can have a chat!
 
 Previously, I obtained my Master of Science (MSc.) degree in Computer Science at the University of Toronto in March 2024, where I am very fortunate to be advised by [Prof. Farzad Khalvati](https://medical-imaging.utoronto.ca/faculty/farzad-khalvati) at the [Intelligent Medical Informatics Computing Systems Lab](https://imics.ca/). I was affiliated with [The Hospital for Sick Children (SickKids) Research Institute](https://www.sickkids.ca/en/research/about-research-institute/), one of the top three pediatric health-care centres in the world, where I worked in the [Department of Neurosciences & Mental Health](https://www.sickkids.ca/en/research/research-programs/neurosciences-mental-health/). I have also spent a wonderful four months at [AltaML Government AI lab](https://www.govlab.ai/), working on an Aerial Image Segmentation project for the public sector.
 
@@ -30,18 +30,19 @@ Previously, I obtained my Master of Science (MSc.) degree in Computer Science at
 
 
 ## 📖 Research
-My research interest lies at the intersection between **Deep Learning** and **Medical Imaging**, particularly in developing 3D Medical Image Generation model to improve the diagnostic (segmentation and classification) performance of rare diseases, such as (Pediatric) brain tumors. I am also interested in NLP for healthcare using LLMs. Previously, I have worked on the Sequential Decision research on Multi-Armed Bandits.
+My current research interest is on **Medical LLMs**, taming LLMs for multilingual question-answering tasks. I also have strong interests on **Deep Learning** and **Medical Imaging**, particularly in developing 3D Medical Image Generation model to improve the diagnostic (segmentation and classification) performance of rare diseases, such as (Pediatric) brain tumors. I am also interested in NLP for healthcare using LLMs. Previously, I have worked on the Sequential Decision research on Multi-Armed Bandits.
 
 My research could be categorized into:
   - Computational Methodology in Medical Data (image, text, time series data, etc.)
   - Deep Learning applications for Medical Image Analysis
-  - Medical Image Generation (Image Transformer, Diffusion, Vision-Language, LVMs, etc.)
-  - NLP for clinical data (LLMs)
+  - Medical Image Generation (Image Transformer, Diffusion models, Vision-Language, LVMs, etc.)
+  - NLP for medical text (LLMs)
   - Contextual Multi-armed Bandit Problems
 
 I am funded by the Department of Computer Science, Temerty Faculty of Medicine at the University of Toronto, Mitacs Research Grant, SickKids Hospital, and the Ontario Graduate Scholarship.
 
 ## 🏆 Honors and Awards
+- Mitacs Research Grant, Department of Computer Science & AltaML Inc., University of Toronto, 2024
 - Ontario Graduate Scholarship Recipient, Department of Computer Science, University of Toronto, 2023
 - DCS Graduate Program Fellowship, Department of Computer Science, University of Toronto, 2023
 - Mergelas Family Graduate Award, Temerty Faculty of Medicine, University of Toronto, 2022
