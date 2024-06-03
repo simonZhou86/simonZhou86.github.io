@@ -11,11 +11,18 @@ redirect_from:
 
 Education
 ======
-* M.Sc. in Computer Science, [University of Toronto](https://www.utoronto.ca/), 2024
-* BCMPH. in Computing and Mathematics Specialization, [Queen's University](https://www.queensu.ca/), 2022
+* M.Sc. in Computer Science, [University of Toronto](https://www.utoronto.ca/), Jan. 2024
+* BCMPH. in Computing and Mathematics Specialization, [Queen's University](https://www.queensu.ca/), Jun. 2022
 
 Work experience
 ======
+* May 2024 - Present: Machine Learning Engineer
+  * [SpassMed Inc.](https://www.spass.ai/)
+
+* Jan. 2024 - Apr. 2024: Associate Machine Learning Developer
+  * [GovLab.ai, AltaML](https://www.govlab.ai/)
+  * Mentor: Oliver Lean, Senior Machine Learning Developer
+
 * Sept. 2022 - Jan. 2024: Machine Learning Researcher
   * [SickKids Research Institute, The Hospital for Sick Children](https://www.sickkids.ca/en/research/about-research-institute/)
   * Supervisor: Professor Farzad Khalvati
@@ -50,6 +57,7 @@ Talks
 
 Honors and Awards
 ======
+* Mitacs Research Grant, Department of Computer Science, University of Toronto & AltaML Inc., 2024
 * Ontario Graduate Scholarship Recipient, Department of Computer Science, University of Toronto, 2023
 * DCS Graduate Program Fellowship, Department of Computer Science, University of Toronto, 2023
 * Mergelas Family Graduate Award, Temerty Faculty of Medicine, University of Toronto, 2022
@@ -64,6 +72,6 @@ Teaching
   
 Service
 ======
-* Reviewer, [DGM4MICCAI@MICCAI Conference](https://dgm4miccai.github.io/#overview), 2023
+* Reviewer, [DGM4MICCAI@MICCAI Conference](https://dgm4miccai.github.io/#overview), 2023, 2024
 
 You can also find my full-length resume at [here](http://simonZhou86.github.io/files/Meng_Zhou_Resume_Research.pdf), and one-page resume at [here](http://simonZhou86.github.io/files/Meng_Zhou_Resume_onepage.pdf).
