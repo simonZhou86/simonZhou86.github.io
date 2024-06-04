@@ -30,7 +30,7 @@ Previously, I obtained my Master of Science (MSc.) degree in Computer Science at
 
 
 ## 📖 Research
-My current research interest is on **Medical LLMs**, taming LLMs for multilingual question-answering tasks. I also have strong interests on **Deep Learning** and **Medical Imaging**, particularly in developing 3D Medical Image Generation model to improve the diagnostic (segmentation and classification) performance of rare diseases, such as (Pediatric) brain tumors. Previously, I have worked on the Sequential Decision research on Multi-Armed Bandits.
+My current research interest is on **Medical LLMs**, taming LLMs for multilingual medical question-answering tasks. I also have strong interests on **Deep Learning** and **Medical Imaging**, particularly in developing 3D Medical Image Generation model to improve the diagnostic (segmentation and classification) performance of rare diseases, such as (Pediatric) brain tumors. Previously, I have worked on the Sequential Decision research on Multi-Armed Bandits.
 
 My research could be categorized into:
   - Computational Methodology in Medical Data (image, text, time series data, etc.)
