@@ -18,7 +18,7 @@ Previously, I obtained my Master of Science (MSc.) degree in Computer Science at
 
 ## 🔥 News
 - (May 2024), I will serve as a Reviewer for [DGM4MICCAI Workshop @ MICCAI Conference 2024](https://dgm4miccai.github.io/#submission)
-- (Apr. 2024), Our paper on conditional generation of brain tumor ROIs has been accepted to MIDL 2024, see you in Paris! [OpenReview link](https://openreview.net/forum?id=LLoSHPorlM)
+- (Apr. 2024), Our paper on conditional generation of brain tumor ROIs has been accepted to MIDL 2024 as a poster, see you in Paris! [OpenReview link](https://openreview.net/forum?id=LLoSHPorlM)
 - (Feb. 2024), One paper submitted to [Medical Imaging with Deep Learning](https://2024.midl.io/) 2024
 - (Jan. 2024), I compeleted my Master of Science in Computer Science degree at the University of Toronto
 - (Oct. 2023), One paper submitted to [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine), under revision
