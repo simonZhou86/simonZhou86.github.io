@@ -17,12 +17,12 @@ OpenReivew:
 If you find our paper useful, please cite our paper:
 
 ```{bibtex}
-@inproceedings{zhou2024conditional,
+@inproceedings{
+zhou2024conditional,
 title={Conditional Generation of 3D Brain Tumor Regions via {VQGAN} and Temporal-Agnostic Masked Transformer},
 author={Meng Zhou and Farzad Khalvati},
-booktitle={Submitted to Medical Imaging with Deep Learning},
+booktitle={Medical Imaging with Deep Learning},
 year={2024},
-url={https://openreview.net/forum?id=LLoSHPorlM},
-note={under review}
+url={https://openreview.net/forum?id=LLoSHPorlM}
 }
 ```
