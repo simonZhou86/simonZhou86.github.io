@@ -45,7 +45,7 @@ I am funded by the Department of Computer Science, Temerty Faculty of Medicine a
 ## 🏆 Honors and Awards
 - Mitacs Research Grant, Department of Computer Science & AltaML Inc., University of Toronto, 2024
 - Ontario Graduate Scholarship Recipient, Department of Computer Science, University of Toronto, 2023
-- DCS Graduate Program Fellowship, Department of Computer Science, University of Toronto, 2023
+- Graduate Program Fellowship, Department of Computer Science, University of Toronto, 2023
 - Mergelas Family Graduate Award, Temerty Faculty of Medicine, University of Toronto, 2022
 - Dean's Honor List, Queen's University, 2019-2022
 - John Ursell Tutor Award, Queen's University, 2020
