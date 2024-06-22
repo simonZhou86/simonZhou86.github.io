@@ -25,7 +25,7 @@ Previously, I obtained my Master of Science (MSc.) degree in Computer Science at
 - (Oct. 2023), One paper submitted to [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine), under revision
 - (Jul. 2023), I received the Ontario Graduate Scholarship (OGS) at the University of Toronto DCS
 - (Jun. 2023), I served as a Reviewer for [DGM4MICCAI Workshop @ MICCAI Conference 2023](https://dgm4miccai.github.io/#submission)
-- (Oct. 2022), I received Mergelas Family Graduate Student Award from the Temerty Faculty of Medicine, University of Toronto
+- (Oct. 2022), I received [Mergelas Family Graduate Student Award](https://medical-imaging.utoronto.ca/news/mergelas-award-recipients-announced) from the Temerty Faculty of Medicine, University of Toronto
 - (Apr. 2022), One paper submitted to [Journal of Machine Learnig Research](https://www.jmlr.org/), under revision
 - (Mar. 2022), One abstract accepted to [Imaging Network Ontario](https://www.imno.ca/)
 
