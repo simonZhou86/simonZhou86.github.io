@@ -19,7 +19,7 @@ Previously, I obtained my Master of Science (MSc.) degree in Computer Science at
 ## 🔥 News
 - (Jun. 2024), One paper submitted to [Journal of Computer Assisted Surgery](https://www.tandfonline.com/journals/icsu21).
 - (Jun. 2024), I serve as a Reviewer for [IEEE SMC 2024](https://www.ieeesmc2024.org/home) and [DGM4MICCAI Workshop @ MICCAI 2024](https://dgm4miccai.github.io/#overview)
-- (Apr. 2024), Our paper on conditional generation of brain tumor ROIs has been accepted to MIDL 2024 as a poster, see you in Paris! [OpenReview link](https://openreview.net/forum?id=LLoSHPorlM)
+- (Apr. 2024), Our paper on conditional generation of brain tumor ROIs has been accepted to MIDL 2024 as a poster, see you in Paris! [Paper](https://openreview.net/forum?id=LLoSHPorlM), [Poster](http://simonZhou86.github.io/files/MIDL_Poster_final.pdf), <span style="color:red">*Best Posters Paper Shortlist (32 long papers)*</span>.
 - (Feb. 2024), One paper submitted to [Medical Imaging with Deep Learning](https://2024.midl.io/) 2024
 - (Jan. 2024), I compeleted my Master of Science in Computer Science degree at the University of Toronto
 - (Oct. 2023), One paper submitted to [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine), under revision
@@ -27,7 +27,7 @@ Previously, I obtained my Master of Science (MSc.) degree in Computer Science at
 - (Jun. 2023), I served as a Reviewer for [DGM4MICCAI Workshop @ MICCAI 2023](https://dgm4miccai.github.io/#submission)
 - (Oct. 2022), I received [Mergelas Family Graduate Student Award](https://medical-imaging.utoronto.ca/news/mergelas-award-recipients-announced) from the Temerty Faculty of Medicine, University of Toronto
 - (Apr. 2022), One paper submitted to [Journal of Machine Learnig Research](https://www.jmlr.org/), under revision
-- (Mar. 2022), One abstract accepted to [Imaging Network Ontario](https://www.imno.ca/)
+- (Mar. 2022), One abstract accepted to [Imaging Network Ontario](https://www.imno.ca/), [Poster](http://simonZhou86.github.io/files/P1-1_Zhou_Meng.pdf)
 
 
 ## 📖 Research
