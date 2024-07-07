@@ -20,9 +20,9 @@ Previously, I obtained my Master of Science (MSc.) degree in Computer Science at
 - (Jun. 2024), One paper submitted to [Journal of Computer Assisted Surgery](https://www.tandfonline.com/journals/icsu21).
 - (Jun. 2024), I serve as a Reviewer for [IEEE SMC 2024](https://www.ieeesmc2024.org/home) and [DGM4MICCAI Workshop @ MICCAI 2024](https://dgm4miccai.github.io/#overview)
 - (Apr. 2024), Our paper on conditional generation of brain tumor ROIs has been accepted to MIDL 2024 as a poster, see you in Paris! [Paper](https://openreview.net/forum?id=LLoSHPorlM), [Poster](http://simonZhou86.github.io/files/MIDL_Poster_final.pdf), <span style="color:red">*Best Posters Paper Shortlist (32 long papers)*</span>.
-- (Feb. 2024), One paper submitted to [Medical Imaging with Deep Learning](https://2024.midl.io/) 2024
+- (Feb. 2024), One paper submitted to [Medical Imaging with Deep Learning](https://2024.midl.io/) (MIDL) 2024
 - (Jan. 2024), I compeleted my Master of Science in Computer Science degree at the University of Toronto
-- (Oct. 2023), One paper submitted to [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine), under revision
+- (Oct. 2023), One paper submitted to [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine), under 2nd round revision
 - (Jul. 2023), I received the [Ontario Graduate Scholarship (OGS)](https://www.sgs.utoronto.ca/awards/ontario-graduate-scholarship/) at the University of Toronto DCS
 - (Jun. 2023), I served as a Reviewer for [DGM4MICCAI Workshop @ MICCAI 2023](https://dgm4miccai.github.io/#submission)
 - (Oct. 2022), I received [Mergelas Family Graduate Student Award](https://medical-imaging.utoronto.ca/news/mergelas-award-recipients-announced) from the Temerty Faculty of Medicine, University of Toronto
@@ -42,6 +42,7 @@ My research could be categorized into:
 
 I am funded by the Department of Computer Science, Temerty Faculty of Medicine at the University of Toronto, Mitacs Research Grant, SickKids Hospital, and the Ontario Graduate Scholarship.
 
+
 ## 🏆 Honors and Awards
 - Mitacs Research Grant, Department of Computer Science & AltaML Inc., University of Toronto, 2024
 - Ontario Graduate Scholarship Recipient, Department of Computer Science, University of Toronto, 2023
@@ -49,6 +50,7 @@ I am funded by the Department of Computer Science, Temerty Faculty of Medicine a
 - Mergelas Family Graduate Award, Temerty Faculty of Medicine, University of Toronto, 2022
 - Dean's Honor List, Queen's University, 2019-2022
 - John Ursell Tutor Award, Queen's University, 2020
+
 
 ## 🚩 Other Milestones
 - I obtained my Honours Bachelor's degree in Computing, *Specialized in Computing and Mathematics* from [Queen's University](https://www.queensu.ca/). During my undergrad years, I have the privilege to work under the supervision of [Prof. Parvin Mousavi](https://www.cs.queensu.ca/people/Parvin/Mousavi) at the [Medical Informatics Laboratory](https://medi.cs.queensu.ca/) on my undergraduate honours thesis, *"Domain Transfer Through Image-to-Image Translation in Prostate Cancer Detection"*; and [Prof. Yanglei Song](https://sites.google.com/view/yangleisong) on the Contextual Multi-Armed Bandit problem. You can see more details in the Publicaton section on the top. 
