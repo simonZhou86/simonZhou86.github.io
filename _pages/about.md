@@ -16,15 +16,14 @@ I am a full-time Machine Learning Engineer at [SpassMed Inc.](https://www.spass.
 Previously, I obtained my Master of Science (MSc.) degree in Computer Science at the University of Toronto in March, 2024, where I am very fortunate to be advised by [Prof. Farzad Khalvati](https://medical-imaging.utoronto.ca/faculty/farzad-khalvati) at the [Intelligent Medical Informatics Computing Systems Lab](https://imics.ca/). I was affiliated with [The Hospital for Sick Children (SickKids) Research Institute](https://www.sickkids.ca/en/research/about-research-institute/), one of the top three pediatric health-care centres in the world, where I worked in the [Department of Neurosciences & Mental Health](https://www.sickkids.ca/en/research/research-programs/neurosciences-mental-health/). I have also spent a wonderful four months at [AltaML Government AI lab](https://www.govlab.ai/), working on an Aerial Image Segmentation project for the public sector.
 
 
-## 🔥 News
+## 🔥🔥🔥 News
 - (Jun. 2024), One paper submitted to [Journal of Computer Assisted Surgery](https://www.tandfonline.com/journals/icsu21).
-- (Jun. 2024), I serve as a Reviewer for [IEEE SMC 2024](https://www.ieeesmc2024.org/home) and [DGM4MICCAI Workshop @ MICCAI 2024](https://dgm4miccai.github.io/#overview)
-- (Apr. 2024), Our paper on conditional generation of brain tumor ROIs has been accepted to MIDL 2024 as a poster, see you in Paris! [Paper](https://openreview.net/forum?id=LLoSHPorlM), [Poster](http://simonZhou86.github.io/files/MIDL_Poster_final.pdf), <span style="color:red">*Best Posters Paper Shortlist (32 long papers)*</span>.
-- (Feb. 2024), One paper submitted to [Medical Imaging with Deep Learning](https://2024.midl.io/) (MIDL) 2024
+- (Jun. 2024), I serve as a Reviewer for [IEEE SMC 2024](https://www.ieeesmc2024.org/home) and [MICCAI 2024, DGM4MICCAI Workshop](https://dgm4miccai.github.io/#overview)
+- (Apr. 2024), Our paper on conditional generation of brain tumor ROIs has been accepted to [MIDL 2024](https://2024.midl.io/) as a poster, see you in Paris! [Paper](https://openreview.net/forum?id=LLoSHPorlM), [Poster](http://simonZhou86.github.io/files/MIDL_Poster_final.pdf), <span style="color:red">*Best Posters Paper Shortlist (32 long papers)*</span>.
 - (Jan. 2024), I compeleted my Master of Science in Computer Science degree at the University of Toronto
 - (Oct. 2023), One paper submitted to [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine), under 2nd round revision
 - (Jul. 2023), I received the [Ontario Graduate Scholarship (OGS)](https://www.sgs.utoronto.ca/awards/ontario-graduate-scholarship/) at the University of Toronto DCS
-- (Jun. 2023), I served as a Reviewer for [DGM4MICCAI Workshop @ MICCAI 2023](https://dgm4miccai.github.io/#submission)
+- (Jun. 2023), I served as a Reviewer for MICCAI 2023, DGM4MICCAI Workshop
 - (Oct. 2022), I received [Mergelas Family Graduate Student Award](https://medical-imaging.utoronto.ca/news/mergelas-award-recipients-announced) from the Temerty Faculty of Medicine, University of Toronto
 - (Apr. 2022), One paper submitted to [Journal of Machine Learnig Research](https://www.jmlr.org/), under revision
 - (Mar. 2022), One abstract accepted to [Imaging Network Ontario](https://www.imno.ca/), [Poster](http://simonZhou86.github.io/files/P1-1_Zhou_Meng.pdf)
