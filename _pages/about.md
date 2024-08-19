@@ -17,7 +17,7 @@ Previously, I obtained my Master of Science (MSc.) degree in Computer Science at
 
 
 ## 🔥🔥🔥 News
-- (Aug. 2024), I serve as a Program Committee for [IEEE BIBM 2024](https://ieeebibm.org/BIBM2024), and one paper submitted to main conference.
+- (Aug. 2024), I serve as a Program Committee for [IEEE BIBM 2024](https://ieeebibm.org/BIBM2024), and one paper submitted to the main conference.
 - (Jun. 2024), One paper submitted to [Journal of Computer Assisted Surgery](https://www.tandfonline.com/journals/icsu21).
 - (Jun. 2024), I serve as a Reviewer for [IEEE SMC 2024](https://www.ieeesmc2024.org/home) and [MICCAI 2024, DGM4MICCAI Workshop](https://dgm4miccai.github.io/#overview)
 - (Apr. 2024), Our paper on conditional generation of brain tumor ROIs has been accepted to [MIDL 2024](https://2024.midl.io/) as a poster, see you in Paris! [Paper](https://openreview.net/forum?id=LLoSHPorlM), [Poster](http://simonZhou86.github.io/files/MIDL_Poster_final.pdf), <span style="color:red">*Best Posters Paper Shortlist (32 long papers)*</span>.
