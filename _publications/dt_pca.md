@@ -10,7 +10,7 @@ paperurl: 'https://www.imno.ca/sites/default/files/ImNO2022Proceedings.pdf'
 
 We further extend our method by incoperating the uncertainty estimation to the model to improve the classification performance. To this end, we further propose the *Evidential Focal Loss* as a loss function for binary prostate cancer classification. The extended journal version is available at [here](https://arxiv.org/abs/2307.00479)
 
-[Download paper here](http://simonZhou86.github.io/files/dt_pca.pdf)
+[Download journal paper here](http://simonZhou86.github.io/files/dt_pca.pdf)
 
 If you find our paper useful, please cite our paper:
 

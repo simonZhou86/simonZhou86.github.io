@@ -11,7 +11,7 @@ paperurl: 'https://openreview.net/forum?id=LLoSHPorlM'
 Accepted for publication at MIDL 2024
 
 OpenReivew:
-[Download paper here](https://openreview.net/pdf?id=LLoSHPorlM)
+[Download paper here](http://simonZhou86.github.io/files/zhou2024a.pdf)
 
 
 If you find our paper useful, please cite our paper:
