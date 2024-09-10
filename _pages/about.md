@@ -17,7 +17,7 @@ Previously, I obtained my Master of Science (MSc.) degree in Computer Science at
 
 
 ## 🔥🔥🔥 News
-- (Sept. 2024), our technical report on Multilingual Large Language Models for Medicine is on [Arxiv](https://arxiv.org/abs/2409.05732). The work is still working in progress, stay tuned!
+- (Sept. 2024), Our technical report on Multilingual Large Language Models for Medicine is on [Arxiv](https://arxiv.org/abs/2409.05732). The work is still working in progress, stay tuned!
 - (Aug. 2024), I serve as a Program Committee for [IEEE BIBM 2024](https://ieeebibm.org/BIBM2024), and one paper submitted to the main conference.
 - (Jun. 2024), One paper submitted to [Journal of Computer Assisted Surgery](https://www.tandfonline.com/journals/icsu21).
 - (Jun. 2024), I serve as a Reviewer for [IEEE SMC 2024](https://www.ieeesmc2024.org/home) and [MICCAI 2024, DGM4MICCAI Workshop](https://dgm4miccai.github.io/#overview)
