@@ -10,6 +10,7 @@ paperurl: 'https://arxiv.org/abs/2212.04661'
 ArXiv Preprint:
 [Download paper here](http://simonZhou86.github.io/files/dilran_arxiv.pdf)
 
+<span style="color:red">**Update**: An improved version of this work has been accepted to IEEE BIBM 2024, please check [here](https://simonzhou86.github.io/publication/eh_dran) for details.</span>
 
 If you find our paper useful, please cite our paper:
 
