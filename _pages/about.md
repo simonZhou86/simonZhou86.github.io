@@ -11,13 +11,13 @@ redirect_from:
 
 Welcome!
 
-I am a full-time Machine Learning Engineer at [SpassMed Inc.](https://www.spass.ai/) working on Medical LLMs and Imaging. If you are interested in AI applications in Medicine/Healthcare, reach out to me and we can have a chat!
+I am a full-time Machine Learning Engineer at SpassMed Inc. working on the next-generation [AI Medical Records Summarization Platform](https://mejurix.com/). If you are interested in AI applications in Medicine/Healthcare or interested about our product, please reach out to me and we can have a chat!
 
 Previously, I obtained my Master of Science (MSc.) degree in Computer Science at the University of Toronto in March, 2024, where I am very fortunate to be advised by [Prof. Farzad Khalvati](https://medical-imaging.utoronto.ca/faculty/farzad-khalvati) at the [Intelligent Medical Informatics Computing Systems Lab](https://imics.ca/). I was affiliated with [The Hospital for Sick Children (SickKids) Research Institute](https://www.sickkids.ca/en/research/about-research-institute/), one of the top three pediatric health-care centres in the world, where I worked in the [Department of Neurosciences & Mental Health](https://www.sickkids.ca/en/research/research-programs/neurosciences-mental-health/). I have also spent a wonderful four months at [AltaML Government AI lab](https://www.govlab.ai/), working on an Aerial Image Segmentation project for the public sector.
 
 
 ## 🔥🔥🔥 News
-- (Oct. 2024), Our paper on multimodal medical image fusion has been accpected to [IEEE BIBM 2024](https://ieeebibm.org/BIBM2024) as an oral short paper, congratulations to all co-authors! Paper will be released soon, stay tuned!
+- (Oct. 2024), Our paper on multimodal medical image fusion has been accpected to [IEEE BIBM 2024](https://ieeebibm.org/BIBM2024) as an <span style="color:red">*oral short paper*</span>, congratulations to all co-authors! Paper will be released soon!
 - (Sept. 2024), Our technical report on Multilingual Large Language Models for Medicine is on [Arxiv](https://arxiv.org/abs/2409.05732). The work is still working in progress, stay tuned!
 - (Aug. 2024), I serve as a Program Committee for [IEEE BIBM 2024](https://ieeebibm.org/BIBM2024).
 - (Jun. 2024), One paper submitted to [Journal of Computer Assisted Surgery](https://www.tandfonline.com/journals/icsu21).
