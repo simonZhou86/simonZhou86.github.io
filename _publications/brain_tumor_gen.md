@@ -3,12 +3,12 @@ title: "Generating 3D Brain Tumor Regions in MRI using Vector-Quantization Gener
 collection: publications
 permalink: /publication/brain_tumor_gen 
 excerpt: 'In this work, we present a novel framework that uses vector-quantization GAN and a transformer incorporating masked token modeling to generate high-resolution and diverse 3D brain tumor ROIs that can be directly used as augmented data for the classification of brain tumor ROI. We apply our method to two imbalanced datasets where we augment the minority class: (1) the Multimodal Brain Tumor Segmentation Challenge (BraTS) 2019 dataset to generate new low-grade glioma (LGG) ROIs to balance with high-grade glioma (HGG) class; (2) the internal pediatric LGG (pLGG) dataset tumor ROIs with BRAF V600E Mutation genetic marker to balance with BRAF Fusion genetic marker class. We show that the proposed method outperforms various baseline models in both qualitative and quantitative measurements.'
-date: 2023-10-02
-venue: 'Arxiv'
+date: 2024-11-27
+venue: 'Computers in Biology and Medicine'
 paperurl: 'https://arxiv.org/abs/2310.01251'
 ---
 
-Under 2nd round revision at Computers in Biology and Medicine
+Accepted at Computers in Biology and Medicine Journal (IF=7)
 
 Arxiv link:
 [Download paper here](https://arxiv.org/pdf/2310.01251)
