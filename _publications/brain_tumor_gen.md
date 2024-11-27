@@ -8,7 +8,7 @@ venue: 'Computers in Biology and Medicine'
 paperurl: 'https://arxiv.org/abs/2310.01251'
 ---
 
-Accepted at Journal of Computers in Biology and Medicine (IF=7)
+Accepted by Computers in Biology and Medicine Journal (IF=7)
 
 Arxiv link:
 [Download paper here](https://arxiv.org/pdf/2310.01251)

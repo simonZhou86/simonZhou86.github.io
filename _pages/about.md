@@ -17,7 +17,7 @@ Previously, I obtained my Master of Science (MSc.) degree in Computer Science at
 
 
 ## 🔥🔥🔥 News
-- (Nov. 2024), Our paper on autoregressive tumor ROIs generation has been accpected to [Journal of Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine) as a <span style="color:red">*regular paper*</span>! [Arxiv Link](https://arxiv.org/abs/2310.01251)
+- (Nov. 2024), Our paper on autoregressive tumor ROIs generation has been accpected to [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine) as a <span style="color:red">*regular paper*</span>! [Arxiv Link](https://arxiv.org/abs/2310.01251)
 - (Oct. 2024), Our paper on multimodal medical image fusion has been accpected to [IEEE BIBM 2024](https://ieeebibm.org/BIBM2024) as an <span style="color:red">*oral short paper*</span>, congratulations to all co-authors! [Arxiv Extended Version](https://arxiv.org/abs/2411.11799), [Slides](http://simonZhou86.github.io/files/EHDRAN_slides.pdf)
 - (Sept. 2024), Our technical report on Multilingual Large Language Models for Medicine is on [Arxiv](https://arxiv.org/abs/2409.05732). The work is still working in progress, stay tuned!
 - (Aug. 2024), I serve as a Program Committee for [IEEE BIBM 2024](https://ieeebibm.org/BIBM2024).
