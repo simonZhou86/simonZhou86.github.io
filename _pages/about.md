@@ -17,6 +17,7 @@ Previously, I obtained my Master of Science (MSc.) degree in Computer Science at
 
 
 ## 🔥🔥🔥 News
+- (Nov. 2024), Our paper on autoregressive tumor ROIs generation has been accpected to [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine)! [Arxiv Link](https://arxiv.org/abs/2310.01251)
 - (Oct. 2024), Our paper on multimodal medical image fusion has been accpected to [IEEE BIBM 2024](https://ieeebibm.org/BIBM2024) as an <span style="color:red">*oral short paper*</span>, congratulations to all co-authors! [Arxiv Extended Version](https://arxiv.org/abs/2411.11799), [Slides](http://simonZhou86.github.io/files/EHDRAN_slides.pdf)
 - (Sept. 2024), Our technical report on Multilingual Large Language Models for Medicine is on [Arxiv](https://arxiv.org/abs/2409.05732). The work is still working in progress, stay tuned!
 - (Aug. 2024), I serve as a Program Committee for [IEEE BIBM 2024](https://ieeebibm.org/BIBM2024).
@@ -24,7 +25,6 @@ Previously, I obtained my Master of Science (MSc.) degree in Computer Science at
 - (Jun. 2024), I serve as a Reviewer for [IEEE SMC 2024](https://www.ieeesmc2024.org/home) and [MICCAI 2024, DGM4MICCAI Workshop](https://dgm4miccai.github.io/#overview)
 - (Apr. 2024), Our paper on conditional generation of brain tumor ROIs has been accepted to [MIDL 2024](https://2024.midl.io/) as a poster, see you in Paris! [OpenReview](https://openreview.net/forum?id=LLoSHPorlM), [Poster](http://simonZhou86.github.io/files/MIDL_Poster_final.pdf), <span style="color:red">*Best Posters Paper Shortlist (32 long papers)*</span>.
 - (Jan. 2024), I compeleted my Master of Science in Computer Science at the University of Toronto
-- (Oct. 2023), One paper submitted to [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine), under 2nd round revision
 - (Jul. 2023), I received the [Ontario Graduate Scholarship (OGS)](https://www.sgs.utoronto.ca/awards/ontario-graduate-scholarship/) at the University of Toronto DCS
 - (Jun. 2023), I served as a Reviewer for MICCAI 2023, DGM4MICCAI Workshop
 - (Oct. 2022), I received [Mergelas Family Graduate Student Award](https://medical-imaging.utoronto.ca/news/mergelas-award-recipients-announced) from the Temerty Faculty of Medicine, University of Toronto
