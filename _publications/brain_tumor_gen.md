@@ -10,8 +10,11 @@ paperurl: 'https://arxiv.org/abs/2310.01251'
 
 Accepted by Computers in Biology and Medicine Journal (IF=7)
 
-Arxiv link:
-[Download paper here](https://arxiv.org/pdf/2310.01251)
+Link:
+[Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S0010482524015877)
+
+Arxiv(Not updated) Link:
+[Preprint](https://arxiv.org/abs/2310.01251)
 
 
 If you find our paper useful, please cite our paper:
@@ -22,5 +25,18 @@ If you find our paper useful, please cite our paper:
   author={Zhou, Meng and Wagner, Matthias W and Tabori, Uri and Hawkins, Cynthia and Ertl-Wagner, Birgit B and Khalvati, Farzad},
   journal={arXiv preprint arXiv:2310.01251},
   year={2023}
+}
+
+@Article{Zhou2025gen,
+  author   = {Meng Zhou and Matthias W. Wagner and Uri Tabori and Cynthia Hawkins and Birgit B. Ertl-Wagner and Farzad Khalvati},
+  journal  = {Computers in Biology and Medicine},
+  title    = {Generating 3D brain tumor regions in MRI using vector-quantization Generative Adversarial Networks},
+  year     = {2025},
+  issn     = {0010-4825},
+  pages    = {109502},
+  volume   = {185},
+  doi      = {https://doi.org/10.1016/j.compbiomed.2024.109502},
+  keywords = {Deep learning, Generative Adversarial Networks, Transformer, Image generation, Brain MRI, Pediatric low grade glioma},
+  url      = {https://www.sciencedirect.com/science/article/pii/S0010482524015877},
 }
 ```
