@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-!(http://simonZhou86.github.io/images/name_chinese.png)
+![](http://simonZhou86.github.io/images/name_chinese.png)
 
 Welcome!
 
