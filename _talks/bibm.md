@@ -4,7 +4,7 @@ collection: talks
 type: "Conference proceedings talk"
 permalink: /talks/bibm
 venue: "2024 IEEE International Conference on Bioinformatics and Biomedicine"
-date: 2024-12
+date: 2024-12-03
 location: "Lisbon, Portugal"
 ---
 
