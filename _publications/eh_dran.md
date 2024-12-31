@@ -7,7 +7,7 @@ effective multiscale feature extraction, coupled with a gradient operator to enh
 efficient fusion, we present a parameter-free fusion strategy based on the weighted nuclear norm of softmax, which requires no
 additional computations during training or inference. Extensive experiments on MRI-CT, MRI-SPECT, and a downstream brain tumor classification task demonstrate that our approach outperforms various baseline methods in terms of visual quality, texture preservation, and fusion speed, making it a possible practical solution for real-world clinical applications.'
 date: 2024-08-16
-venue: 'IEEE BIBM'
+venue: 'IEEE International Conference on Bioinformatics and Biomedicine'
 paperurl: 'https://arxiv.org/abs/2411.11799'
 ---
 
