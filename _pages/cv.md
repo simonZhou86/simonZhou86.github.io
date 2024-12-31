@@ -16,14 +16,14 @@ Education
 
 Work experience
 ======
-* May 2024 - Present: Machine Learning Engineer
+* May 2024 - Dec. 2024: Machine Learning Engineer
   * [SpassMed Inc.](https://www.spass.ai/)
 
 * Jan. 2024 - Apr. 2024: Associate Machine Learning Developer
   * [GovLab.ai, AltaML](https://www.govlab.ai/)
   * Mentor: Oliver Lean, Senior Machine Learning Developer
 
-* Sept. 2022 - Jan. 2024: Machine Learning Researcher
+* Sept. 2022 - Jan. 2024: Graduate Machine Learning Researcher
   * [SickKids Research Institute, The Hospital for Sick Children](https://www.sickkids.ca/en/research/about-research-institute/)
   * Supervisor: Professor Farzad Khalvati
 
@@ -31,7 +31,7 @@ Work experience
   * [Medical Informatics Lab, Queen's University](https://medi.cs.queensu.ca/)
   * Supervisor: Professor Parvin Mousavi
 
-* Apr. 2021 - July 2021: Algorithm Engineer Intern
+* Apr. 2021 - July 2021: Algorithm Engineer (Machine Learning) Intern
   * [Illuminera Ghawar](http://www.ghawar.cn/)
   * Mentor: Sifan Huai, Senior Algorithm Engineer
 
