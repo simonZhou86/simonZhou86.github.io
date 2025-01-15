@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/vqgan_tatrans
 excerpt: 'In this paper, we present a class-conditioned ROI generation framework that combines a conditional vector-quantization GAN and a class-conditioned masked Transformer to generate high-resolution and diverse 3D brain tumor ROIs. We also propose a temporal-agnostic masking strategy to effectively learn relationships between semantic tokens in the latent space. Our experiments demonstrate that the proposed method can generate high-quality 3D MRIs of brain tumor regions for both low- and high-grade glioma (LGG/HGG) in the BraTS 2019 dataset.'
 date: 2024-04-05
-venue: 'Medical Imaging with Deep Learning'
+venue: 'International Conference on Medical Imaging with Deep Learning'
 paperurl: 'https://openreview.net/forum?id=LLoSHPorlM'
 ---
 
