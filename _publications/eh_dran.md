@@ -6,13 +6,14 @@ excerpt: ' In this paper, we propose a novel CNN-based architecture with a Dilat
 effective multiscale feature extraction, coupled with a gradient operator to enhance edge detail learning. To ensure fast and
 efficient fusion, we present a parameter-free fusion strategy based on the weighted nuclear norm of softmax, which requires no
 additional computations during training or inference. Extensive experiments on MRI-CT, MRI-SPECT, and a downstream brain tumor classification task demonstrate that our approach outperforms various baseline methods in terms of visual quality, texture preservation, and fusion speed, making it a possible practical solution for real-world clinical applications.'
-date: 2024-08-16
+date: 2024-12-03
 venue: 'IEEE International Conference on Bioinformatics and Biomedicine'
 paperurl: 'https://arxiv.org/abs/2411.11799'
 ---
 
 Accepted to IEEE BIBM 2024 as an oral short paper! This version is the Arxiv extended version contains full results.
 
+IEEE Proceeding (short paper): [Link](https://ieeexplore.ieee.org/document/10821967) 
 
 If you find our paper useful, please cite our paper:
 

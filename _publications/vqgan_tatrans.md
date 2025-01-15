@@ -10,19 +10,18 @@ paperurl: 'https://openreview.net/forum?id=LLoSHPorlM'
 
 Accepted for publication at MIDL 2024
 
-OpenReivew:
-[Download paper here](http://simonZhou86.github.io/files/zhou2024a.pdf)
+OpenReivew: [Link](https://openreview.net/forum?id=LLoSHPorlM)
+
+PMLR Proceeding: [Link](https://proceedings.mlr.press/v250/zhou24a.html), [Download Paper Here](http://simonZhou86.github.io/files/zhou2024a.pdf)
 
 
 If you find our paper useful, please cite our paper:
 
 ```{bibtex}
-@inproceedings{
-zhou2024conditional,
-title={Conditional Generation of 3D Brain Tumor Regions via {VQGAN} and Temporal-Agnostic Masked Transformer},
-author={Meng Zhou and Farzad Khalvati},
-booktitle={Medical Imaging with Deep Learning},
-year={2024},
-url={https://openreview.net/forum?id=LLoSHPorlM}
+@inproceedings{zhou2024conditional,
+  title={Conditional Generation of 3D Brain Tumor Regions via VQGAN and Temporal-Agnostic Masked Transformer},
+  author={Zhou, Meng and Khalvati, Farzad},
+  booktitle={Medical Imaging with Deep Learning},
+  year={2024}
 }
 ```
