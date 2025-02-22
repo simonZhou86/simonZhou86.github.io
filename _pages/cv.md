@@ -72,8 +72,8 @@ Teaching
   
 Service
 ======
-* Program Committee, [IEEE BIBM 2024](https://ieeebibm.org/BIBM2024)
-* Reviewer, [DGM4MICCAI@MICCAI Conference](https://dgm4miccai.github.io/#overview), 2023, 2024
-* Reviewer, [IEEE SMC 2024](https://www.ieeesmc2024.org/home)
+* Program Committee Member, IEEE BIBM 2024-2025
+* Reviewer, MICCAI 2023-2025
+* Reviewer, IEEE SMC 2024
 
 <!-- You can also find my full-length resume at [here](http://simonZhou86.github.io/files/Meng_Zhou_Resume_Research.pdf), and one-page resume at [here](http://simonZhou86.github.io/files/Meng_Zhou_Resume_onepage.pdf). -->
