@@ -11,11 +11,11 @@ redirect_from:
 
 Welcome!
 
-I am an Applied Machine Learning Scientist at TD Bank, working on machine learning and GenAI solutions for businesses. If you are interested about what we do or our team in general, please feel free to reach out!
+I am an Applied Machine Learning Scientist at TD Bank, working on machine learning and GenAI solutions for businesses. If you are interested in what we do or our team in general, please feel free to reach out!
 
 I have also worked as a Machine Learning Engineer at a Medical AI startup company, focused on multilingual LLMs ([Technical Report](https://arxiv.org/abs/2409.05732)) and LLM-applications on medical document analysis.
 
-Previously, I obtained my Master of Science (MSc.) degree in Computer Science at the University of Toronto in March, 2024, where I am very fortunate to be advised by [Prof. Farzad Khalvati](https://medical-imaging.utoronto.ca/faculty/farzad-khalvati) at the [Intelligent Medical Informatics Computing Systems Lab](https://imics.ca/). I was affiliated with [The Hospital for Sick Children (SickKids) Research Institute](https://www.sickkids.ca/en/research/about-research-institute/), one of the top three pediatric health-care centres in the world, where I worked in the [Department of Neurosciences & Mental Health](https://www.sickkids.ca/en/research/research-programs/neurosciences-mental-health/). I have also spent a wonderful four months at [AltaML Government AI lab](https://www.govlab.ai/), working on an Aerial Image Segmentation project for the public sector.
+Previously, I was in academia where I obtained my Master of Science (MSc.) degree in Computer Science at the University of Toronto in March, 2024. I am very fortunate to be advised by [Prof. Farzad Khalvati](https://medical-imaging.utoronto.ca/faculty/farzad-khalvati) at the [Intelligent Medical Informatics Computing Systems Lab](https://imics.ca/). I was affiliated with [The Hospital for Sick Children (SickKids) Research Institute](https://www.sickkids.ca/en/research/about-research-institute/), one of the top three pediatric health-care centres in the world, where I worked in the [Department of Neurosciences & Mental Health](https://www.sickkids.ca/en/research/research-programs/neurosciences-mental-health/). I have also spent a wonderful four months at [AltaML Government AI lab](https://www.govlab.ai/), working on an Aerial Image Segmentation project for the public sector.
 
 **I am also open to any collaborations on (Multimodal) Foundation Models for Medical Imaging**
 
@@ -23,7 +23,7 @@ Previously, I obtained my Master of Science (MSc.) degree in Computer Science at
 [comment]: <> (Reviewer for [MICCAI 2025](https://conferences.miccai.org/2025/en/default.asp) at Daejeon, Republic of Korea; and as a)
 
 ## 🔥🔥🔥 News
-- (Feb. 2025), I will serve as a Program Commitee Member for [IEEE BIBM 2025](https://ieeebibm.org/BIBM2025) at Wuhan, China
+- (Feb. 2025), I will serve as a Reviewer for [MICCAI 2025](https://conferences.miccai.org/2025/en/default.asp) at Daejeon, Republic of Korea; and as a Program Commitee Member for [IEEE BIBM 2025](https://ieeebibm.org/BIBM2025) at Wuhan, China
 - (Nov. 2024), Our paper on autoregressive tumor ROIs generation has been accpected to [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine) as a <span style="color:red">*regular paper*</span>! [Link](https://www.sciencedirect.com/science/article/abs/pii/S0010482524015877)
 - (Oct. 2024), Our paper on multimodal medical image fusion has been accpected to [IEEE BIBM 2024](https://ieeebibm.org/BIBM2024) as an <span style="color:red">*oral short paper*</span>, congratulations to all co-authors! [Arxiv Extended Version](https://arxiv.org/abs/2411.11799), [Slides](http://simonZhou86.github.io/files/EHDRAN_slides.pdf)
 - (Sept. 2024), Our technical report on Multilingual Large Language Models for Medicine is on [Arxiv](https://arxiv.org/abs/2409.05732).
