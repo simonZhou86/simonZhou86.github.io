@@ -23,6 +23,7 @@ Previously, I was in academia where I obtained my Master of Science (MSc.) degre
 [comment]: <> (Reviewer for [MICCAI 2025](https://conferences.miccai.org/2025/en/default.asp) at Daejeon, Republic of Korea; and as a)
 
 ## 🔥🔥🔥 News
+- (May. 2025), One paper submitted to [Electronic Journal of Statistics](https://imstat.org/journals-and-publications/electronic-journal-of-statistics/).
 - (Feb. 2025), I will serve as a Reviewer for [MICCAI 2025](https://conferences.miccai.org/2025/en/default.asp) at Daejeon, Republic of Korea; and as a Program Commitee Member for [IEEE BIBM 2025](https://ieeebibm.org/BIBM2025) at Wuhan, China
 - (Nov. 2024), Our paper on autoregressive tumor ROIs generation has been accpected to [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine) as a <span style="color:red">*regular paper*</span>! [Link](https://www.sciencedirect.com/science/article/abs/pii/S0010482524015877)
 - (Oct. 2024), Our paper on multimodal medical image fusion has been accpected to [IEEE BIBM 2024](https://ieeebibm.org/BIBM2024) as an <span style="color:red">*oral short paper*</span>, congratulations to all co-authors! [Arxiv Extended Version](https://arxiv.org/abs/2411.11799), [Slides](http://simonZhou86.github.io/files/EHDRAN_slides.pdf)
@@ -34,7 +35,6 @@ Previously, I was in academia where I obtained my Master of Science (MSc.) degre
 - (Jan. 2024), I compeleted my Master of Science in Computer Science at the University of Toronto.
 - (Jul. 2023), I received the [Ontario Graduate Scholarship (OGS)](https://www.sgs.utoronto.ca/awards/ontario-graduate-scholarship/) at the University of Toronto DCS!
 - (Oct. 2022), I received [Mergelas Family Graduate Student Award](https://medical-imaging.utoronto.ca/news/mergelas-award-recipients-announced) from the Temerty Faculty of Medicine at the University of Toronto!
-- (Apr. 2022), One paper submitted to [Journal of Machine Learnig Research](https://www.jmlr.org/), under revision.
 - (Mar. 2022), One abstract accepted to [Imaging Network Ontario](https://www.imno.ca/), [Poster](http://simonZhou86.github.io/files/P1-1_Zhou_Meng.pdf).
 
 
