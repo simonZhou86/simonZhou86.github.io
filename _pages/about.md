@@ -23,8 +23,8 @@ Previously, I was in academia where I obtained my Master of Science (MSc.) degre
 [comment]: <> (Reviewer for [MICCAI 2025](https://conferences.miccai.org/2025/en/default.asp) at Daejeon, Republic of Korea; and as a)
 
 ## 🔥🔥🔥 News
-- (May. 2025), One paper submitted to [Electronic Journal of Statistics](https://imstat.org/journals-and-publications/electronic-journal-of-statistics/).
-- (Feb. 2025), I will serve as a Reviewer for [MICCAI 2025](https://conferences.miccai.org/2025/en/default.asp) at Daejeon, Republic of Korea; and as a Program Commitee Member for [IEEE BIBM 2025](https://ieeebibm.org/BIBM2025) at Wuhan, China
+- (May. 2025), One paper resubmitted to [Electronic Journal of Statistics](https://imstat.org/journals-and-publications/electronic-journal-of-statistics/).
+- (Feb. 2025), I will serve as a Program Commitee Member for [IEEE BIBM 2025](https://ieeebibm.org/BIBM2025) at Wuhan, China
 - (Nov. 2024), Our paper on autoregressive tumor ROIs generation has been accpected to [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine) as a <span style="color:red">*regular paper*</span>! [Link](https://www.sciencedirect.com/science/article/abs/pii/S0010482524015877)
 - (Oct. 2024), Our paper on multimodal medical image fusion has been accpected to [IEEE BIBM 2024](https://ieeebibm.org/BIBM2024) as an <span style="color:red">*oral short paper*</span>, congratulations to all co-authors! [Arxiv Extended Version](https://arxiv.org/abs/2411.11799), [Slides](http://simonZhou86.github.io/files/EHDRAN_slides.pdf)
 - (Sept. 2024), Our technical report on Multilingual Large Language Models for Medicine is on [Arxiv](https://arxiv.org/abs/2409.05732).
