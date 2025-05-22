@@ -24,7 +24,7 @@ Previously, I was in academia where I obtained my Master of Science (MSc.) degre
 
 ## 🔥🔥🔥 News
 - (May. 2025), One paper resubmitted to [Electronic Journal of Statistics](https://imstat.org/journals-and-publications/electronic-journal-of-statistics/).
-- (Feb. 2025), I will serve as a Program Commitee Member for [IEEE BIBM 2025](https://ieeebibm.org/BIBM2025) at Wuhan, China
+- (Feb. 2025), I will serve as a Reviewer for [MICCAI 2025](https://conferences.miccai.org/2025/en/default.asp) at Daejeon, Republic of Korea; and as a Program Commitee Member for [IEEE BIBM 2025](https://ieeebibm.org/BIBM2025) at Wuhan, China
 - (Nov. 2024), Our paper on autoregressive tumor ROIs generation has been accpected to [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine) as a <span style="color:red">*regular paper*</span>! [Link](https://www.sciencedirect.com/science/article/abs/pii/S0010482524015877)
 - (Oct. 2024), Our paper on multimodal medical image fusion has been accpected to [IEEE BIBM 2024](https://ieeebibm.org/BIBM2024) as an <span style="color:red">*oral short paper*</span>, congratulations to all co-authors! [Arxiv Extended Version](https://arxiv.org/abs/2411.11799), [Slides](http://simonZhou86.github.io/files/EHDRAN_slides.pdf)
 - (Sept. 2024), Our technical report on Multilingual Large Language Models for Medicine is on [Arxiv](https://arxiv.org/abs/2409.05732).
@@ -61,8 +61,9 @@ I am funded by the Department of Computer Science, Temerty Faculty of Medicine a
 
 
 ## 🚩 Other Milestones
-- I obtained my Honours Bachelor's degree in Computing, *Specialized in Computing and Mathematics* from [Queen's University](https://www.queensu.ca/). During my undergrad years, I have the privilege to work under the supervision of [Prof. Parvin Mousavi](https://www.cs.queensu.ca/people/Parvin/Mousavi) at the [Medical Informatics Laboratory](https://medi.cs.queensu.ca/) on my undergraduate honours thesis, *"Domain Transfer Through Image-to-Image Translation in Prostate Cancer Detection"*; and [Prof. Yanglei Song](https://sites.google.com/view/yangleisong) on the Contextual Multi-Armed Bandit problem. You can see more details in the Publicaton section on the top. 
+- I obtained my Honours Bachelor's degree in Computing, *Specialized in Computing and Mathematics* from [Queen's University](https://www.queensu.ca/). During my undergrad years, I have the privilege to work under the supervision of [Prof. Parvin Mousavi](https://www.cs.queensu.ca/people/Parvin/Mousavi) at the [Medical Informatics Laboratory](https://medi.cs.queensu.ca/) on my undergraduate honours thesis, *"Domain Transfer Through Image-to-Image Translation in Prostate Cancer Detection"*; and [Prof. Yanglei Song](https://sites.google.com/view/yangleisong) on the Contextual Multi-Armed Bandit problem. You can see more details in the Publicaton section on the top.
 - I graduated from the [Advanced Placement Program, Yale Secondary School](https://yale.abbyschools.ca/), a beautiful high school in British Columbia in June 2017.
+- I used to participated in high-school Mathematics (UWaterloo, BC Province), Chemistry (UWaterloo, BC Olympiad), and Physics (UBC Physics Olympics) contests across Canada.
 
 
 Navigate the top bar for more details, enjoy!
