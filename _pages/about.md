@@ -29,7 +29,6 @@ Previously, I was in academia where I obtained my Master of Science (MSc.) degre
 - (Oct. 2024), Our paper on multimodal medical image fusion has been accpected to [IEEE BIBM 2024](https://ieeebibm.org/BIBM2024) as an <span style="color:red">*oral short paper*</span>, congratulations to all co-authors! [Arxiv Extended Version](https://arxiv.org/abs/2411.11799), [Slides](http://simonZhou86.github.io/files/EHDRAN_slides.pdf)
 - (Sept. 2024), Our technical report on Multilingual Large Language Models for Medicine is on [Arxiv](https://arxiv.org/abs/2409.05732).
 - (Aug. 2024), I serve as a Program Committee Member for [IEEE BIBM 2024](https://ieeebibm.org/BIBM2024) at Lisbon, Portugal.
-- (Jun. 2024), One paper submitted to [Journal of Computer Assisted Surgery](https://www.tandfonline.com/journals/icsu21).
 - (Jun. 2024), I serve as a Reviewer for [IEEE SMC 2024](https://www.ieeesmc2024.org/home) and [MICCAI 2024, DGM4MICCAI Workshop](https://dgm4miccai.github.io/#overview).
 - (Apr. 2024), Our paper on conditional generation of brain tumor ROIs has been accepted to [MIDL 2024](https://2024.midl.io/) as a poster paper, see you in Paris! [OpenReview](https://openreview.net/forum?id=LLoSHPorlM), [Poster](http://simonZhou86.github.io/files/MIDL_Poster_final.pdf), <span style="color:red">*Best Posters Paper Shortlist (32 long papers)*</span>.
 - (Jan. 2024), I compeleted my Master of Science in Computer Science at the University of Toronto.
