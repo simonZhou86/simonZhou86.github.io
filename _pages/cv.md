@@ -16,6 +16,9 @@ Education
 
 Work experience
 ======
+* Jan. 2025 - Present: Applied Machine Learning Scientist
+  * [TD Bank Group](https://www.td.com/ca/en/about-td)
+
 * May 2024 - Dec. 2024: Machine Learning Engineer
   * [SpassMed Inc.](https://www.spass.ai/)
 
@@ -73,6 +76,6 @@ Teaching
 Service
 ======
 * Conference Reviewer/Program Commitee Member: MICCAI, IEEE BIBM, IEEE SMC
-* Journal Reviewer: Artificial Intelligence In Medicine
+* Journal Reviewer: Artificial Intelligence In Medicine, Pattern Recognition
 
 <!-- You can also find my full-length resume at [here](http://simonZhou86.github.io/files/Meng_Zhou_Resume_Research.pdf), and one-page resume at [here](http://simonZhou86.github.io/files/Meng_Zhou_Resume_onepage.pdf). -->

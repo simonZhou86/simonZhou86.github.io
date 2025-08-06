@@ -19,10 +19,10 @@ Previously, I was in academia where I obtained my Master of Science (MSc.) degre
 
 **I am also open to any collaborations on (Multimodal) Foundation Models for Medical Imaging**
 
-
 [comment]: <> (Reviewer for [MICCAI 2025](https://conferences.miccai.org/2025/en/default.asp) at Daejeon, Republic of Korea; and as a)
 
 ## 🔥🔥🔥 News
+- (Jul. 2025), Our paper on Mamba-based Multimodal 2D/3D Medical Image Fusion for Advanced Clinical Diagnosis has been accepted to [MICCAI MLMI 2025](https://sites.google.com/view/mlmi2025/)! [Link](https://arxiv.org/abs/2508.03008). The preparatory work is also presented at ICML 2025 Workshop, see [here](https://simonzhou86.github.io/publication/clinicalfmamba_2d) for more details.
 - (May. 2025), One paper resubmitted to [Electronic Journal of Statistics](https://imstat.org/journals-and-publications/electronic-journal-of-statistics/).
 - (Feb. 2025), I will serve as a Reviewer for [MICCAI 2025](https://conferences.miccai.org/2025/en/default.asp) at Daejeon, Republic of Korea; and as a Program Commitee Member for [IEEE BIBM 2025](https://ieeebibm.org/BIBM2025) at Wuhan, China
 - (Nov. 2024), Our paper on autoregressive tumor ROIs generation has been accpected to [Computers in Biology and Medicine](https://www.sciencedirect.com/journal/computers-in-biology-and-medicine) as a <span style="color:red">*regular paper*</span>! [Link](https://www.sciencedirect.com/science/article/abs/pii/S0010482524015877)
@@ -42,7 +42,7 @@ My current research interest is on **Medical LLMs**, taming LLMs for multilingua
 
 My research could be categorized into:
   - Computational Methodology in Medical Data (image, text, time series data, etc.)
-  - Deep Learning applications for Medical Image Analysis (image fusion)
+  - Deep Learning applications for Medical Image Analysis (multimodal medical image fusion)
   - Medical Image Generation (Image Transformer, Diffusion models, Vision-Language, LVMs, etc.)
   - NLP for medical text (LLMs)
   - Contextual Multi-armed Bandit Problems

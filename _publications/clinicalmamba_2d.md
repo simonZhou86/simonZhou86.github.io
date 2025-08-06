@@ -8,9 +8,9 @@ venue: 'ICML NewInML Workshop'
 paperurl: 'http://simonZhou86.github.io/files/zhou2025clinicalfmamba.pdf'
 ---
 
-Accepted to ICML NewInML Workshop 2025 as a poster paper.
+Accepted to ICML NewInML Workshop 2025 as a poster paper, also see [here](https://icml.cc/virtual/2025/50490).
 
-This paper is also submitted to MICCAI MIML Workshop for possible publication.
+The extension of this work is accepted to MICCAI MLMI 2025, see [here](https://simonzhou86.github.io/publication/clinicalfmamba_3d) for more details.
 
 If you find our paper useful, please cite our paper:
 
