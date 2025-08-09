@@ -23,4 +23,10 @@ If you find our paper useful, please cite our paper:
   year={2025},
   url={https://openreview.net/forum?id=FVHqDXsH63}
 }
+@article{zhou2025clinicalfmamba,
+  title={ClinicalFMamba: Advancing Clinical Assessment using Mamba-based Multimodal Neuroimaging Fusion},
+  author={Zhou, Meng and Khalvati, Farzad},
+  journal={arXiv preprint arXiv:2508.03008},
+  year={2025}
+}
 ```
