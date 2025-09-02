@@ -8,7 +8,7 @@ venue: 'International Conference on Machine Learning in Medical Imaging, held in
 paperurl: 'https://arxiv.org/abs/2508.03008'
 ---
 
-Accepted to [MICCAI MLMI 2025](https://sites.google.com/view/mlmi2025/).
+Accepted to [MICCAI MLMI 2025](https://sites.google.com/view/mlmi2025/) as an oral paper.
 
 If you find our paper useful, please cite our paper:
 
