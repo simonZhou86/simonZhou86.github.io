@@ -11,7 +11,7 @@ redirect_from:
 
 Welcome!
 
-I am an Applied Machine Learning Scientist at TD Bank, working on machine learning and GenAI solutions for businesses. If you are interested in what we do or our team in general, please feel free to reach out!
+I am an Applied Machine Learning Scientist at TD Bank, working on building machine learning and LLM/Agentic-AI solutions for business. If you are interested in what we do or our team in general, please feel free to reach out!
 
 I have also worked as a Machine Learning Engineer at a Medical AI startup company, focused on multilingual LLMs ([Technical Report](https://arxiv.org/abs/2409.05732)) and LLM-applications on medical document analysis.
 
