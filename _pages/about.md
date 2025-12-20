@@ -47,7 +47,7 @@ My research could be categorized into:
   - NLP for medical text (LLMs)
   - Contextual Multi-armed Bandit Problems
 
-I am funded by the Department of Computer Science, Temerty Faculty of Medicine at the University of Toronto, Mitacs Research Grant, SickKids Hospital, and the Ontario Graduate Scholarship.
+I was funded by the Department of Computer Science and Temerty Faculty of Medicine at the University of Toronto; Mitacs Research Grant; The Hospital for Sick Children Research Institute, and the Ontario Graduate Scholarship.
 
 
 ## 🏆 Honors and Awards
