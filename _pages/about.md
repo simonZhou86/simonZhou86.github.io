@@ -17,7 +17,7 @@ I have also worked as a Machine Learning Engineer at a Medical AI startup compan
 
 Previously, I was in academia where I obtained my Master of Science (MSc.) degree in Computer Science at the University of Toronto in March, 2024. I am very fortunate to be advised by [Prof. Farzad Khalvati](https://medical-imaging.utoronto.ca/faculty/farzad-khalvati) at the [Intelligent Medical Informatics Computing Systems Lab](https://imics.ca/). I was affiliated with [The Hospital for Sick Children (SickKids) Research Institute](https://www.sickkids.ca/en/research/about-research-institute/), one of the top three pediatric health-care centres in the world, where I worked in the [Department of Neurosciences & Mental Health](https://www.sickkids.ca/en/research/research-programs/neurosciences-mental-health/). I have also spent a wonderful four months at [AltaML Government AI lab](https://www.govlab.ai/), working on an Aerial Image Segmentation project for the public sector.
 
-**I am also open to any collaborations on (Multimodal) Foundation Models for Medical Imaging**
+[comment]: <> (**I am also open to any collaborations on (Multimodal) Foundation Models for Medical Imaging**)
 
 [comment]: <> (Reviewer for [MICCAI 2025](https://conferences.miccai.org/2025/en/default.asp) at Daejeon, Republic of Korea; and as a)
 
