@@ -8,7 +8,7 @@ venue: 'International Conference on Machine Learning in Medical Imaging, held in
 paperurl: 'https://arxiv.org/abs/2508.03008'
 ---
 
-Accepted to [MICCAI MLMI 2025](https://sites.google.com/view/mlmi2025/) as an oral paper.
+Accepted to [MICCAI MLMI 2025](https://link.springer.com/chapter/10.1007/978-3-032-09513-8_24) as an oral paper.
 
 If you find our paper useful, please cite our paper:
 
@@ -18,5 +18,13 @@ If you find our paper useful, please cite our paper:
   author={Zhou, Meng and Khalvati, Farzad},
   journal={arXiv preprint arXiv:2508.03008},
   year={2025}
+}
+@inproceedings{khalvati2026clinicalfmamba,
+  title={ClinicalFMamba: Advancing Clinical Assessment using Mamba-based Multimodal Neuroimaging Fusion},
+  author={Zhou, Meng and Khalvati, Farzad},
+  booktitle={Machine Learning in Medical Imaging: 16th International Workshop, MLMI 2025, Held in Conjunction with MICCAI 2025, Daejeon, South Korea, September 23, 2025, Proceedings},
+  pages={245},
+  year={2026},
+  organization={Springer Nature}
 }
 ```
