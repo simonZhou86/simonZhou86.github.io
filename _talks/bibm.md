@@ -8,4 +8,4 @@ date: 2024-12-03
 location: "Lisbon, Portugal"
 ---
 
-Oral presentation on our short paper.
+Oral presentation on our paper.
