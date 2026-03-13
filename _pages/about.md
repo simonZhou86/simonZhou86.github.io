@@ -22,6 +22,7 @@ Previously, I was in academia where I obtained my Master of Science (MSc.) degre
 [comment]: <> (Reviewer for [MICCAI 2025](https://conferences.miccai.org/2025/en/default.asp) at Daejeon, Republic of Korea; and as a)
 
 ## 🔥🔥🔥 News
+- (Mar. 2026), I will serve as a Reviewer for [MICCAI 2026](https://conferences.miccai.org/2026/en/) at Abu Dhabi; and we have also submitted a paper on RL for diffusion models for optimizing 3D medical image generation, stay tuned!
 - (Jul. 2025), Our paper on Mamba-based Multimodal 2D/3D Medical Image Fusion for Advanced Clinical Diagnosis has been accepted to [MICCAI MLMI 2025](https://sites.google.com/view/mlmi2025/) as an <span style="color:red">*oral paper*</span>! [Link](https://link.springer.com/chapter/10.1007/978-3-032-09513-8_24), [Slides](http://simonZhou86.github.io/files/ClinicalFMamba_Slides.pdf), [Poster](http://simonZhou86.github.io/files/MICCAI2025_Poster.pdf). The preparatory work is also presented at ICML 2025 Workshop, see [here](https://simonzhou86.github.io/publication/clinicalfmamba_2d) for more details.
 - (May. 2025), One paper resubmitted to [Electronic Journal of Statistics](https://imstat.org/journals-and-publications/electronic-journal-of-statistics/).
 - (Feb. 2025), I will serve as a Reviewer for [MICCAI 2025](https://conferences.miccai.org/2025/en/default.asp) at Daejeon, Republic of Korea; and as a Program Commitee Member for [IEEE BIBM 2025](https://ieeebibm.org/BIBM2025) at Wuhan, China
