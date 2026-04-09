@@ -76,6 +76,6 @@ Teaching
 Service
 ======
 * Conference Reviewer/Program Commitee Member: MICCAI, IEEE BIBM, IEEE SMC
-* Journal Reviewer: Artificial Intelligence In Medicine, Pattern Recognition
+* Journal Reviewer: Artificial Intelligence In Medicine, Pattern Recognition, Neurocomputing
 
 <!-- You can also find my full-length resume at [here](http://simonZhou86.github.io/files/Meng_Zhou_Resume_Research.pdf), and one-page resume at [here](http://simonZhou86.github.io/files/Meng_Zhou_Resume_onepage.pdf). -->
