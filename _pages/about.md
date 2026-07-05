@@ -22,6 +22,8 @@ Before my transition to industry, I was in academia where I obtained my Master o
 **I am also open to any collaborations on (Multimodal) Foundation Models for Medical Imaging**
 
 ## 🔥🔥🔥 News
+<div class="news-scroll" markdown="1">
+
 - (Jun. 2026), I have a paper submitted to [IEEE EMBS BHI 2026](https://bhi.embs.org/2026/) on text-guided AR generation of 3D Brain MRI, stay tuned!
 - (Mar. 2026), I will serve as a Reviewer for [MICCAI 2026](https://conferences.miccai.org/2026/en/) at Strasbourg, France; and we have also submitted a paper on RL for diffusion models for optimizing 3D medical image generation, stay tuned!
 - (Jul. 2025), Our paper on Mamba-based Multimodal 2D/3D Medical Image Fusion for Advanced Clinical Diagnosis has been accepted to [MICCAI MLMI 2025](https://sites.google.com/view/mlmi2025/) as an <span style="color:red">*oral paper*</span>! [Link](https://link.springer.com/chapter/10.1007/978-3-032-09513-8_24), [Slides](http://simonZhou86.github.io/files/ClinicalFMamba_Slides.pdf), [Poster](http://simonZhou86.github.io/files/MICCAI2025_Poster.pdf). The preparatory work is also presented at ICML 2025 Workshop, see [here](https://simonzhou86.github.io/publication/clinicalfmamba_2d) for more details.
@@ -37,6 +39,8 @@ Before my transition to industry, I was in academia where I obtained my Master o
 - (Jul. 2023), I received the [Ontario Graduate Scholarship (OGS)](https://www.sgs.utoronto.ca/awards/ontario-graduate-scholarship/) at the University of Toronto DCS!
 - (Oct. 2022), I received [Mergelas Family Graduate Student Award](https://medical-imaging.utoronto.ca/news/mergelas-award-recipients-announced) from the Temerty Faculty of Medicine at the University of Toronto!
 - (Mar. 2022), One abstract accepted to [Imaging Network Ontario](https://www.imno.ca/), [Poster](http://simonZhou86.github.io/files/P1-1_Zhou_Meng.pdf).
+
+</div>
 
 
 ## 📖 Research

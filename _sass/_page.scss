@@ -100,6 +100,18 @@
     font-size: $type-size-6;
   }
 
+  .news-scroll {
+    max-height: 22rem;
+    overflow-y: auto;
+    padding-right: 0.75rem;
+    margin-bottom: 2em;
+    scrollbar-gutter: stable;
+
+    ul {
+      margin-bottom: 0;
+    }
+  }
+
   /* blockquote citations */
   blockquote + .small {
     margin-top: -1.5em;
