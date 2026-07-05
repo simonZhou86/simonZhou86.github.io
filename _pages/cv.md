@@ -16,7 +16,10 @@ Education
 
 Work experience
 ======
-* Jan. 2025 - Present: Applied Machine Learning Scientist
+* Mar. 2026 - Present: Senior AI Research Scientist
+  * [AstraZeneca](https://www.astrazeneca.com/)
+
+* Jan. 2025 - Mar. 2026: Applied Machine Learning Scientist
   * [TD Bank Group](https://www.td.com/ca/en/about-td)
 
 * May 2024 - Dec. 2024: Machine Learning Engineer
