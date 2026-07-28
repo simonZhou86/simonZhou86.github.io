@@ -19,7 +19,7 @@ Previously, I was an Applied Machine Learning Scientist at TD Bank, worked on bu
 
 Before my transition to industry, I was in academia where I obtained my Master of Science (MSc.) degree in Computer Science at the University of Toronto in March, 2024. I am very fortunate to be advised by [Prof. Farzad Khalvati](https://medical-imaging.utoronto.ca/faculty/farzad-khalvati) at the [Intelligent Medical Informatics Computing Systems Lab](https://imics.ca/). I was affiliated with [The Hospital for Sick Children (SickKids) Research Institute](https://www.sickkids.ca/en/research/about-research-institute/), one of the top three pediatric health-care centres in the world, where I worked in the [Department of Neurosciences & Mental Health](https://www.sickkids.ca/en/research/research-programs/neurosciences-mental-health/). I have also spent a wonderful four months at [AltaML Government AI lab](https://www.govlab.ai/), working on an Aerial Image Segmentation project for the public sector.
 
-**I am also open to any collaborations on (Multimodal) Foundation Models for Medical Imaging**
+**I am open to any collaborations on (Multimodal) Foundation Models for Medical Imaging**
 
 ## 🔥🔥🔥 News
 <div class="news-scroll" markdown="1">
@@ -44,16 +44,18 @@ Before my transition to industry, I was in academia where I obtained my Master o
 
 
 ## 📖 Research
-My current research interest is on **Medical LLMs**, taming LLMs for multilingual medical question-answering tasks, and **Multimodal fundation models for Medical Imaging**. I also have strong interests on **Medical Image Analysis**, particularly in developing 3D Medical Image Generation model to improve the diagnostic (segmentation and classification) performance of rare diseases, such as (Pediatric) brain tumors. Previously, I have worked on the Sequential Decision research on Multi-Armed Bandits.
+My current research interests focus on **Biomedical Agents**, particularly their self-evolving capabilities through skills, memory, and feedback-driven improvement for drug discovery and complex biomedical tasks. I am also interested in **World Models and JEPA-style representation learning** for biomedical data, especially how these ideas can be extended to 3D medical image generation. In addition, I am interested in **multimodal foundation models for medical imaging**, including vision-language and large vision models for biomedical applications.
 
-My research could be categorized into:
-  - Computational Methodology in Medical Data (image, text, time series data, etc.)
-  - Deep Learning applications for Medical Image Analysis (multimodal medical image fusion)
-  - Medical Image Generation (Image Transformer, Diffusion models, Vision-Language, LVMs, etc.)
-  - NLP for medical text (LLMs)
+My previous work includes medical LLM post-training for multilingual medical question answering, autoregressive 3D medical image generation for rare disease diagnosis, and sequential decision-making research on contextual multi-armed bandits.
+
+More broadly, my work spans several connected areas:
+  - Biomedical agents and self-evolving AI systems for complex biomedical reasoning
+  - World models and JEPA-style representation learning for biomedical data and agentic task modeling
+  - Medical image analysis and generation, including image transformers, diffusion models, vision-language models, and large vision models
+  - LLM post-training for clinical and biomedical text
   - Contextual Multi-armed Bandit Problems
 
-I was funded by the Department of Computer Science and Temerty Faculty of Medicine at the University of Toronto; Mitacs Research Grant; The Hospital for Sick Children Research Institute, and the Ontario Graduate Scholarship.
+I was previously funded by the Department of Computer Science and Temerty Faculty of Medicine at the University of Toronto; Mitacs Research Grant; The Hospital for Sick Children Research Institute, and the Ontario Graduate Scholarship.
 
 
 ## 🏆 Honors and Awards
@@ -69,12 +71,13 @@ I was funded by the Department of Computer Science and Temerty Faculty of Medici
 - I obtained my Honours Bachelor's degree in Computing, *Specialized in Computing and Mathematics* from [Queen's University](https://www.queensu.ca/). During my undergrad years, I have the privilege to work under the supervision of [Prof. Parvin Mousavi](https://www.cs.queensu.ca/people/Parvin/Mousavi) at the [Medical Informatics Laboratory](https://medi.cs.queensu.ca/) on my undergraduate honours thesis, *"Domain Transfer Through Image-to-Image Translation in Prostate Cancer Detection"*; and [Prof. Yanglei Song](https://sites.google.com/view/yangleisong) on the Contextual Multi-Armed Bandit problem. You can see more details in the Publicaton section on the top.
 - I graduated from the [Advanced Placement Program, Yale Secondary School](https://yale.abbyschools.ca/), a beautiful high school in British Columbia in June 2017.
 - I used to participated in high-school Mathematics (UWaterloo, BC Province), Chemistry (UWaterloo, BC Olympiad), and Physics (UBC Physics Olympics) contests across Canada.
+- I come from Beijing, China, a beautiful city with rich history and culture.
 
 
 Navigate the top bar for more details, enjoy!
 
 Who visited my website before? check out this:
 
-![Visit tracker](https://clustrmaps.com/map_v2.png?d=J-NsD83hGHTyToBRLFxnexK8pRjz_RJvImjuuaTU6JE&cl=ffffff)
+<script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?d=_w65jibQRE7n8P6djqCiaYKYcBAZ-eAPIhEU9MkXGn0&cl=ffffff&w=a"></script>
 
-[Visitor Map Link](https://clustrmaps.com/site/1bo9o)
+[Visitor Map Link](https://mapmyvisitors.com/web/1c6x3)

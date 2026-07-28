@@ -33,15 +33,15 @@ Work experience
   * [SickKids Research Institute, The Hospital for Sick Children](https://www.sickkids.ca/en/research/about-research-institute/)
   * Supervisor: Professor Farzad Khalvati
 
-* Sept. 2021 - May 2022: Undegraduate Researcher
+* Sept. 2021 - May 2022: Undergraduate Researcher
   * [Medical Informatics Lab, Queen's University](https://medi.cs.queensu.ca/)
   * Supervisor: Professor Parvin Mousavi
 
 * Apr. 2021 - July 2021: Algorithm Engineer (Machine Learning) Intern
-  * [Illuminera Ghawar](http://www.ghawar.cn/)
+  * [Illuminera Ghawar](https://www.illuminera.com/1125.html)
   * Mentor: Sifan Huai, Senior Algorithm Engineer
 
-* May 2020 - Feb. 2022: Undegraduate Research Assistant
+* May 2020 - Feb. 2022: Undergraduate Research Assistant
   * [Department of Mathematics and Statistics, Queen's University](https://www.queensu.ca/mathstat/)
   * Supervisor: Professor Yanglei Song
 
@@ -79,6 +79,6 @@ Teaching
 Service
 ======
 * Conference Reviewer/Program Commitee Member: MICCAI, IEEE BIBM, IEEE SMC
-* Journal Reviewer: Artificial Intelligence In Medicine, Pattern Recognition, Neurocomputing
+* Journal Reviewer: Artificial Intelligence In Medicine, Pattern Recognition, Neurocomputing, Expert Systems with Applications
 
 <!-- You can also find my full-length resume at [here](http://simonZhou86.github.io/files/Meng_Zhou_Resume_Research.pdf), and one-page resume at [here](http://simonZhou86.github.io/files/Meng_Zhou_Resume_onepage.pdf). -->
